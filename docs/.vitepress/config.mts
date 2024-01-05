@@ -5,6 +5,7 @@ export default defineConfig({
     base: '/docs/',
     title: "Unofficial AMS2 Server Docs",
     description: "Unofficial AMS2 Server Docs",
+    cleanUrls: true,
     outDir: '.vitepress/dist/docs',
     themeConfig: {
         editLink: {
