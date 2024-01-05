@@ -2,8 +2,9 @@ import {defineConfig} from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+    base: '/docs/',
     title: "Unofficial AMS2 Server Docs",
-    description: "A VitePress Site",
+    description: "Unofficial AMS2 Server Docs",
     themeConfig: {
         editLink: {
             pattern: 'https://github.com/enum-gg/ams2-server-docs/edit/main/docs/:path'
