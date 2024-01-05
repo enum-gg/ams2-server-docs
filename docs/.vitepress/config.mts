@@ -5,6 +5,7 @@ export default defineConfig({
     base: '/docs/',
     title: "Unofficial AMS2 Server Docs",
     description: "Unofficial AMS2 Server Docs",
+    outDir: '.vitepress/dist/docs',
     themeConfig: {
         editLink: {
             pattern: 'https://github.com/enum-gg/ams2-server-docs/edit/main/docs/:path'
