@@ -1,0 +1,1049 @@
+export default {
+    load() {
+        return {
+            "description": "All known vehicles. Each structure contains the vehicle's id, name and (optionally) class.",
+            "list": [
+                {
+                    "id": 1368036017,
+                    "name": "BMW M1 Procar",
+                    "class": "Procar"
+                },
+                {
+                    "id": -934098507,
+                    "name": "BMW M3 Sport Evo Group A",
+                    "class": "Group A"
+                },
+                {
+                    "id": -842343170,
+                    "name": "BMW M Hybrid V8",
+                    "class": "LMDh"
+                },
+                {
+                    "id": 262982797,
+                    "name": "Mercedes-Benz 190E 2.5-16 Evo II DTM",
+                    "class": "Group A"
+                },
+                {
+                    "id": 1330326301,
+                    "name": "MINI Cooper S 1965",
+                    "class": "TC60S2"
+                },
+                {
+                    "id": 400701189,
+                    "name": "MINI Cooper S 1965 B",
+                    "class": "CopaClassicB"
+                },
+                {
+                    "id": -830134672,
+                    "name": "Lotus 23",
+                    "class": "TC60S2"
+                },
+                {
+                    "id": 1818602836,
+                    "name": "MINI Cooper JCW",
+                    "class": "MiniChallenge"
+                },
+                {
+                    "id": 912279169,
+                    "name": "Cadillac DPi-VR",
+                    "class": "DPI"
+                },
+                {
+                    "id": 16119375,
+                    "name": "Cadillac V-Series.R",
+                    "class": "LMDh"
+                },
+                {
+                    "id": -950775810,
+                    "name": "Caterham Academy",
+                    "class": "Cat_Academy"
+                },
+                {
+                    "id": 1864701845,
+                    "name": "Caterham 620R",
+                    "class": "Cat620R"
+                },
+                {
+                    "id": -1660644383,
+                    "name": "Caterham Superlight",
+                    "class": "Cat_Superlight"
+                },
+                {
+                    "id": 851522805,
+                    "name": "Caterham Supersport",
+                    "class": "Cat_Supersport"
+                },
+                {
+                    "id": -2123166417,
+                    "name": "Chevrolet Camaro SS",
+                    "class": "Street"
+                },
+                {
+                    "id": 428770333,
+                    "name": "Dallara F301",
+                    "class": "F-3"
+                },
+                {
+                    "id": 302183120,
+                    "name": "Dallara F309",
+                    "class": "F-3"
+                },
+                {
+                    "id": -489015418,
+                    "name": "McLaren MP4/4",
+                    "class": "F-Classic_Gen2"
+                },
+                {
+                    "id": -61299331,
+                    "name": "McLaren MP4/5B",
+                    "class": "F-Classic_Gen3"
+                },
+                {
+                    "id": 271036494,
+                    "name": "McLaren MP4/6",
+                    "class": "F-Classic_Gen4"
+                },
+                {
+                    "id": -520644472,
+                    "name": "McLaren MP4/7A",
+                    "class": "F-Hitech_Gen1"
+                },
+                {
+                    "id": -1271841366,
+                    "name": "McLaren MP4/8",
+                    "class": "F-Hitech_Gen2"
+                },
+                {
+                    "id": 697161929,
+                    "name": "Formula Classic Gen1 Model1",
+                    "class": "F-Classic_Gen1"
+                },
+                {
+                    "id": -1819510420,
+                    "name": "Formula Classic Gen1 Model2",
+                    "class": "F-Classic_Gen1"
+                },
+                {
+                    "id": -1667467124,
+                    "name": "Formula Classic Gen2 Model1",
+                    "class": "F-Classic_Gen2"
+                },
+                {
+                    "id": -1004811218,
+                    "name": "Formula Classic Gen2 Model2",
+                    "class": "F-Classic_Gen2"
+                },
+                {
+                    "id": -494068343,
+                    "name": "Formula Classic Gen2 Model3",
+                    "class": "F-Classic_Gen2"
+                },
+                {
+                    "id": -1700189536,
+                    "name": "Formula Classic Gen3 Model1",
+                    "class": "F-Classic_Gen3"
+                },
+                {
+                    "id": -1662617552,
+                    "name": "Formula Classic Gen3 Model2",
+                    "class": "F-Classic_Gen3"
+                },
+                {
+                    "id": -1828044943,
+                    "name": "Formula Classic Gen3 Model3",
+                    "class": "F-Classic_Gen3"
+                },
+                {
+                    "id": 264295457,
+                    "name": "Formula Classic Gen3 Model4",
+                    "class": "F-Classic_Gen3"
+                },
+                {
+                    "id": 1294128988,
+                    "name": "Formula Classic Gen4 Model1",
+                    "class": "F-Classic_Gen4"
+                },
+                {
+                    "id": 157362639,
+                    "name": "Formula Classic Gen4 Model2",
+                    "class": "F-Classic_Gen4"
+                },
+                {
+                    "id": 121318055,
+                    "name": "Formula Classic Gen4 Model3",
+                    "class": "F-Classic_Gen4"
+                },
+                {
+                    "id": -1261768631,
+                    "name": "Formula Vintage Gen1 Model1",
+                    "class": "F-Vintage_Gen1"
+                },
+                {
+                    "id": 318400650,
+                    "name": "Formula Vintage Gen1 Model2",
+                    "class": "F-Vintage_Gen1"
+                },
+                {
+                    "id": -1988395354,
+                    "name": "Formula Vintage Gen2 Model1",
+                    "class": "F-Vintage_Gen2"
+                },
+                {
+                    "id": 617290135,
+                    "name": "Formula Vintage Gen2 Model2",
+                    "class": "F-Vintage_Gen2"
+                },
+                {
+                    "id": -546064616,
+                    "name": "Formula HiTech Gen1 Model1",
+                    "class": "F-Hitech_Gen1"
+                },
+                {
+                    "id": -1021087696,
+                    "name": "Formula HiTech Gen1 Model2",
+                    "class": "F-Hitech_Gen1"
+                },
+                {
+                    "id": -1740598979,
+                    "name": "Formula HiTech Gen1 Model3",
+                    "class": "F-Hitech_Gen1"
+                },
+                {
+                    "id": 1820184336,
+                    "name": "Formula HiTech Gen1 Model4",
+                    "class": "F-Hitech_Gen1"
+                },
+                {
+                    "id": 1511161791,
+                    "name": "Formula HiTech Gen2 Model1",
+                    "class": "F-Hitech_Gen2"
+                },
+                {
+                    "id": -873293860,
+                    "name": "Formula HiTech Gen2 Model2",
+                    "class": "F-Hitech_Gen2"
+                },
+                {
+                    "id": -1932898643,
+                    "name": "Formula HiTech Gen2 Model3",
+                    "class": "F-Hitech_Gen2"
+                },
+                {
+                    "id": 1609162502,
+                    "name": "Formula Junior",
+                    "class": "F-Junior"
+                },
+                {
+                    "id": -360792512,
+                    "name": "Formula USA 2023",
+                    "class": "F-USA_2023"
+                },
+                {
+                    "id": -1201605905,
+                    "name": "Brabham BT26A",
+                    "class": "F-Vintage_Gen2"
+                },
+                {
+                    "id": 1061494025,
+                    "name": "Lotus 49C",
+                    "class": "F-Vintage_Gen2"
+                },
+                {
+                    "id": 435621847,
+                    "name": "Lotus 72E",
+                    "class": "F-Retro_Gen1"
+                },
+                {
+                    "id": 1959097924,
+                    "name": "Lotus 98T",
+                    "class": "F-Classic_Gen1"
+                },
+                {
+                    "id": -1025098540,
+                    "name": "Brabham BT44",
+                    "class": "F-Retro_Gen1"
+                },
+                {
+                    "id": 1437730287,
+                    "name": "Formula Retro V8",
+                    "class": "F-Retro_Gen1"
+                },
+                {
+                    "id": -532210519,
+                    "name": "Formula Retro V12",
+                    "class": "F-Retro_Gen1"
+                },
+                {
+                    "id": 553963368,
+                    "name": "McLaren M23",
+                    "class": "F-Retro_Gen1"
+                },
+                {
+                    "id": 369722929,
+                    "name": "Formula Retro Gen2",
+                    "class": "F-Retro_Gen2"
+                },
+                {
+                    "id": 1439296671,
+                    "name": "Lotus 79",
+                    "class": "F-Retro_Gen2"
+                },
+                {
+                    "id": 476615325,
+                    "name": "Brabham BT46B",
+                    "class": "F-Retro_Gen2"
+                },
+                {
+                    "id": 240609990,
+                    "name": "Brabham BT49",
+                    "class": "F-Retro_Gen2"
+                },
+                {
+                    "id": 280856873,
+                    "name": "Brabham BT52",
+                    "class": "F-Retro_Gen3"
+                },
+                {
+                    "id": 2005556145,
+                    "name": "McLaren MP4/1C",
+                    "class": "F-Retro_Gen3"
+                },
+                {
+                    "id": -953316099,
+                    "name": "Formula Retro Gen3 DFY",
+                    "class": "F-Retro_Gen3"
+                },
+                {
+                    "id": 1408558396,
+                    "name": "Formula Retro Gen3 Turbo",
+                    "class": "F-Retro_Gen3"
+                },
+                {
+                    "id": -2140090167,
+                    "name": "Formula Vee",
+                    "class": "F-Vee"
+                },
+                {
+                    "id": -186413128,
+                    "name": "Formula Vee Fin",
+                    "class": "F-Vee"
+                },
+                {
+                    "id": 575788923,
+                    "name": "Formula Trainer",
+                    "class": "F-Trainer"
+                },
+                {
+                    "id": 1982976051,
+                    "name": "Formula Trainer Advanced",
+                    "class": "F-Trainer_A"
+                },
+                {
+                    "id": -67190685,
+                    "name": "Formula Inter MG-15",
+                    "class": "F-Inter"
+                },
+                {
+                    "id": 1948072701,
+                    "name": "Formula Reiza",
+                    "class": "F-Reiza"
+                },
+                {
+                    "id": -1142039519,
+                    "name": "Formula Ultimate 2019",
+                    "class": "F-Ultimate"
+                },
+                {
+                    "id": -377858367,
+                    "name": "Formula Ultimate Gen2",
+                    "class": "F-Ultimate_Gen2"
+                },
+                {
+                    "id": 523915852,
+                    "name": "Formula V10 Gen2",
+                    "class": "F-V10_Gen2"
+                },
+                {
+                    "id": 884102371,
+                    "name": "Formula V10 Gen1",
+                    "class": "F-V10_Gen1"
+                },
+                {
+                    "id": -1766950841,
+                    "name": "McLaren MP4/12",
+                    "class": "F-V10_Gen1"
+                },
+                {
+                    "id": -2053858829,
+                    "name": "Formula V12",
+                    "class": "F-V12"
+                },
+                {
+                    "id": -487937394,
+                    "name": "Iveco Stralis",
+                    "class": "CopaTruck"
+                },
+                {
+                    "id": -819133010,
+                    "name": "MAN TGX",
+                    "class": "CopaTruck"
+                },
+                {
+                    "id": 1647822272,
+                    "name": "Mercedes-Benz Actros",
+                    "class": "CopaTruck"
+                },
+                {
+                    "id": -2086797102,
+                    "name": "Volkswagen Constellation",
+                    "class": "CopaTruck"
+                },
+                {
+                    "id": -619309786,
+                    "name": "Vulkan Truck",
+                    "class": "CopaTruck"
+                },
+                {
+                    "id": 310900789,
+                    "name": "Ginetta G40",
+                    "class": "GT5"
+                },
+                {
+                    "id": -751207847,
+                    "name": "Ginetta G40 Cup",
+                    "class": "G40Cup"
+                },
+                {
+                    "id": 2091910841,
+                    "name": "Ginetta G55 GT4 Supercup",
+                    "class": "G55Supercup"
+                },
+                {
+                    "id": 379055283,
+                    "name": "Ginetta G55 GT4",
+                    "class": "GT4"
+                },
+                {
+                    "id": -1170674276,
+                    "name": "Ginetta G55 GT3",
+                    "class": "GTOpen"
+                },
+                {
+                    "id": 1433352906,
+                    "name": "Ginetta G58",
+                    "class": "P1"
+                },
+                {
+                    "id": 1989434463,
+                    "name": "Ginetta G58 Gen2",
+                    "class": "P1Gen2"
+                },
+                {
+                    "id": -215037480,
+                    "name": "Chevrolet Corvette C3",
+                    "class": "TC60S"
+                },
+                {
+                    "id": 1965836946,
+                    "name": "Chevrolet Corvette C3-R",
+                    "class": "TC70S"
+                },
+                {
+                    "id": -1729418598,
+                    "name": "Chevrolet Corvette C8.R",
+                    "class": "GTE"
+                },
+                {
+                    "id": 798477355,
+                    "name": "Chevrolet Corvette C8 Z06",
+                    "class": "Supercars"
+                },
+                {
+                    "id": 373176631,
+                    "name": "Chevrolet Corvette GTP",
+                    "class": "Group C"
+                },
+                {
+                    "id": 24108228,
+                    "name": "Porsche 911 RSR GTE",
+                    "class": "GTE"
+                },
+                {
+                    "id": 901145560,
+                    "name": "BMW M8 GTE",
+                    "class": "GTE"
+                },
+                {
+                    "id": -241187148,
+                    "name": "BMW M6 GT3",
+                    "class": "GT3"
+                },
+                {
+                    "id": -1966031044,
+                    "name": "BMW M4 GT4",
+                    "class": "GT4"
+                },
+                {
+                    "id": 1311912387,
+                    "name": "BMW M4 GT3",
+                    "class": "GT3_Gen2"
+                },
+                {
+                    "id": 143364290,
+                    "name": "BMW 2002 Turbo",
+                    "class": "TC60S"
+                },
+                {
+                    "id": 1353949246,
+                    "name": "Mercedes-AMG GT3",
+                    "class": "GT3"
+                },
+                {
+                    "id": 160008140,
+                    "name": "Mercedes-AMG GT3 Evo",
+                    "class": "GT3_Gen2"
+                },
+                {
+                    "id": -855144880,
+                    "name": "Mercedes-AMG GT4",
+                    "class": "GT4"
+                },
+                {
+                    "id": -811404968,
+                    "name": "Porsche 963",
+                    "class": "LMDh"
+                },
+                {
+                    "id": 809291220,
+                    "name": "Porsche 911 GT3 R",
+                    "class": "GT3"
+                },
+                {
+                    "id": -519566358,
+                    "name": "Porsche 992 GT3 R",
+                    "class": "GT3_Gen2"
+                },
+                {
+                    "id": -1416203489,
+                    "name": "Nissan GT-R Nismo GT3",
+                    "class": "GT3"
+                },
+                {
+                    "id": 2144142462,
+                    "name": "Porsche 911 GT3 Cup 3.8",
+                    "class": "Carrera Cup"
+                },
+                {
+                    "id": -109705417,
+                    "name": "Porsche 911 GT3 Cup 4.0",
+                    "class": "Carrera Cup"
+                },
+                {
+                    "id": 1464988033,
+                    "name": "Porsche Cayman GT4 Clubsport MR",
+                    "class": "GT4"
+                },
+                {
+                    "id": 850609487,
+                    "name": "McLaren 570S GT4",
+                    "class": "GT4"
+                },
+                {
+                    "id": -310556497,
+                    "name": "McLaren 720S GT3",
+                    "class": "GT3"
+                },
+                {
+                    "id": -1026941607,
+                    "name": "McLaren 720S GT3 Evo",
+                    "class": "GT3_Gen2"
+                },
+                {
+                    "id": -2019695308,
+                    "name": "Chevrolet Camaro GT4.R",
+                    "class": "GT4"
+                },
+                {
+                    "id": -1001569309,
+                    "name": "McLaren F1 GTR",
+                    "class": "GT1"
+                },
+                {
+                    "id": 1979398129,
+                    "name": "Mercedes-Benz CLK LM",
+                    "class": "GT1"
+                },
+                {
+                    "id": 1076438091,
+                    "name": "Porsche 911 GT1-98",
+                    "class": "GT1"
+                },
+                {
+                    "id": -343023508,
+                    "name": "Nissan R390 GT1",
+                    "class": "GT1"
+                },
+                {
+                    "id": 1891730007,
+                    "name": "Nissan R89C",
+                    "class": "Group C"
+                },
+                {
+                    "id": 957632269,
+                    "name": "Porsche 962C",
+                    "class": "Group C"
+                },
+                {
+                    "id": 65306143,
+                    "name": "Sauber Mercedes C9",
+                    "class": "Group C"
+                },
+                {
+                    "id": 1630268373,
+                    "name": "Brabham BT62",
+                    "class": "Hypercars"
+                },
+                {
+                    "id": 844159614,
+                    "name": "Kart 125cc 2STROKE",
+                    "class": "Kart125cc"
+                },
+                {
+                    "id": -2116593279,
+                    "name": "Kart GX390 Rental",
+                    "class": "KartRental"
+                },
+                {
+                    "id": 374810616,
+                    "name": "Kart GX390 Race",
+                    "class": "KartGX390"
+                },
+                {
+                    "id": -739789710,
+                    "name": "Kart 125cc Shifter",
+                    "class": "KartShifter"
+                },
+                {
+                    "id": 95104745,
+                    "name": "MCR S2000",
+                    "class": "P4"
+                },
+                {
+                    "id": -204135982,
+                    "name": "McLaren F1 LM",
+                    "class": "Supercars"
+                },
+                {
+                    "id": -975958992,
+                    "name": "McLaren Senna",
+                    "class": "Hypercars"
+                },
+                {
+                    "id": 1932261404,
+                    "name": "MetalMoro AJR Chevrolet",
+                    "class": "P1"
+                },
+                {
+                    "id": -1236687924,
+                    "name": "MetalMoro AJR Honda",
+                    "class": "P1"
+                },
+                {
+                    "id": -1745773963,
+                    "name": "MetalMoro AJR Judd",
+                    "class": "P1"
+                },
+                {
+                    "id": 1618401665,
+                    "name": "MetalMoro AJR Nissan",
+                    "class": "P1"
+                },
+                {
+                    "id": -1164814162,
+                    "name": "MetalMoro AJR Gen2 Chevrolet",
+                    "class": "P1Gen2"
+                },
+                {
+                    "id": 995681332,
+                    "name": "MetalMoro AJR Gen2 Honda",
+                    "class": "P1Gen2"
+                },
+                {
+                    "id": -68656752,
+                    "name": "MetalMoro AJR Gen2 Nissan",
+                    "class": "P1Gen2"
+                },
+                {
+                    "id": -50694644,
+                    "name": "Mitsubishi Lancer R",
+                    "class": "LancerCup"
+                },
+                {
+                    "id": 213908738,
+                    "name": "Mitsubishi Lancer RS",
+                    "class": "LancerCup"
+                },
+                {
+                    "id": 979672157,
+                    "name": "Copa Montana",
+                    "class": "Montana"
+                },
+                {
+                    "id": -1404228714,
+                    "name": "Sprint Race",
+                    "class": "SprintRace"
+                },
+                {
+                    "id": 253111186,
+                    "name": "Super V8",
+                    "class": "SuperV8"
+                },
+                {
+                    "id": 1323381033,
+                    "name": "Chevrolet Cruze Stock Car 2019",
+                    "class": "StockCarV8"
+                },
+                {
+                    "id": 1836524676,
+                    "name": "Chevrolet Cruze Stock Car 2020",
+                    "class": "StockCarV8_2020"
+                },
+                {
+                    "id": -1357079805,
+                    "name": "Chevrolet Cruze Stock Car 2021",
+                    "class": "StockCarV8_2021"
+                },
+                {
+                    "id": 1767659669,
+                    "name": "Chevrolet Cruze Stock Car 2022",
+                    "class": "StockCarV8_2022"
+                },
+                {
+                    "id": 1137681361,
+                    "name": "Chevrolet Cruze Stock Car 2023",
+                    "class": "StockCarV8_2023"
+                },
+                {
+                    "id": 619110280,
+                    "name": "Toyota Corolla Stock Car 2020",
+                    "class": "StockCarV8_2020"
+                },
+                {
+                    "id": 806954123,
+                    "name": "Toyota Corolla Stock Car 2021",
+                    "class": "StockCarV8_2021"
+                },
+                {
+                    "id": 539628044,
+                    "name": "Toyota Corolla Stock Car 2022",
+                    "class": "StockCarV8_2022"
+                },
+                {
+                    "id": -1274933694,
+                    "name": "Toyota Corolla Stock Car 2023",
+                    "class": "StockCarV8_2023"
+                },
+                {
+                    "id": -371227432,
+                    "name": "Chevrolet Omega Stock Car 1999",
+                    "class": "StockCar99"
+                },
+                {
+                    "id": 306371028,
+                    "name": "Superkart 250cc",
+                    "class": "SuperKart"
+                },
+                {
+                    "id": 1560162507,
+                    "name": "Ultima GTR",
+                    "class": "Supercars"
+                },
+                {
+                    "id": 306785397,
+                    "name": "Ultima GTR Race",
+                    "class": "GTOpen"
+                },
+                {
+                    "id": 703591920,
+                    "name": "MetalMoro MRX Duratec Turbo P2",
+                    "class": "P2"
+                },
+                {
+                    "id": 65202613,
+                    "name": "MetalMoro MRX Honda P3",
+                    "class": "P3"
+                },
+                {
+                    "id": -181636428,
+                    "name": "MetalMoro MRX Duratec P4",
+                    "class": "P4"
+                },
+                {
+                    "id": -1834081784,
+                    "name": "MetalMoro MRX Duratec Turbo P3",
+                    "class": "P3"
+                },
+                {
+                    "id": 802736208,
+                    "name": "Roco 001",
+                    "class": "P3"
+                },
+                {
+                    "id": -1870819346,
+                    "name": "Sigma P1",
+                    "class": "P2"
+                },
+                {
+                    "id": -1720554236,
+                    "name": "Sigma P1 G5",
+                    "class": "P1Gen2"
+                },
+                {
+                    "id": -1201567586,
+                    "name": "Chevrolet Opala Stock Cars 1979",
+                    "class": "Opala79"
+                },
+                {
+                    "id": 245459304,
+                    "name": "Chevrolet Opala Stock Cars 1986",
+                    "class": "Opala86"
+                },
+                {
+                    "id": -62148492,
+                    "name": "Chevrolet Opala Old Stock Race",
+                    "class": "OldStock"
+                },
+                {
+                    "id": 2016280350,
+                    "name": "Porsche 911 RSR 74",
+                    "class": "TC70S"
+                },
+                {
+                    "id": -609305506,
+                    "name": "Puma GTB",
+                    "class": "CopaClassicFL"
+                },
+                {
+                    "id": 1031807465,
+                    "name": "Puma GTE",
+                    "class": "CopaClassicB"
+                },
+                {
+                    "id": -93205368,
+                    "name": "Puma P052",
+                    "class": "GT5"
+                },
+                {
+                    "id": -1155860123,
+                    "name": "Chevrolet Chevette",
+                    "class": "CopaClassicB"
+                },
+                {
+                    "id": 1775576087,
+                    "name": "Copa Fusca",
+                    "class": "CopaFusca"
+                },
+                {
+                    "id": -815324367,
+                    "name": "Fusca Classic FL",
+                    "class": "CopaClassicFL"
+                },
+                {
+                    "id": -844211966,
+                    "name": "Copa Uno",
+                    "class": "CopaUno"
+                },
+                {
+                    "id": 311092313,
+                    "name": "Uno Classic B",
+                    "class": "CopaClassicB"
+                },
+                {
+                    "id": -45848101,
+                    "name": "Gol Classic FL",
+                    "class": "CopaClassicFL"
+                },
+                {
+                    "id": -333355648,
+                    "name": "Gol Classic B",
+                    "class": "CopaClassicB"
+                },
+                {
+                    "id": 1661024873,
+                    "name": "Passat Classic FL",
+                    "class": "CopaClassicFL"
+                },
+                {
+                    "id": 1700425966,
+                    "name": "Passat Classic B",
+                    "class": "CopaClassicB"
+                },
+                {
+                    "id": -1086802614,
+                    "name": "Fusca 1 Hot Cars",
+                    "class": "Hot Cars"
+                },
+                {
+                    "id": 150641251,
+                    "name": "Fusca 2 Hot Cars",
+                    "class": "Hot Cars"
+                },
+                {
+                    "id": 390318757,
+                    "name": "Passat Hot Cars",
+                    "class": "Hot Cars"
+                },
+                {
+                    "id": 1653755268,
+                    "name": "Gol Hot Cars",
+                    "class": "Hot Cars"
+                },
+                {
+                    "id": 1785300635,
+                    "name": "Aussie Racing Camaro",
+                    "class": "ARC_Cam"
+                },
+                {
+                    "id": -1170240161,
+                    "name": "Volkswagen Polo",
+                    "class": "TSICup"
+                },
+                {
+                    "id": -1762971386,
+                    "name": "Volkswagen Polo GTS",
+                    "class": "TSICup"
+                },
+                {
+                    "id": -1137512839,
+                    "name": "Volkswagen Virtus",
+                    "class": "TSICup"
+                },
+                {
+                    "id": -1310963279,
+                    "name": "Volkswagen Virtus GTS",
+                    "class": "TSICup"
+                },
+                {
+                    "id": -1477576480,
+                    "name": "Lola T95/00 Ford-Cosworth",
+                    "class": "F-USA_Gen1"
+                },
+                {
+                    "id": 1701517873,
+                    "name": "Lola T95/00 Mercedes-Benz",
+                    "class": "F-USA_Gen1"
+                },
+                {
+                    "id": 1408764300,
+                    "name": "Lola T98/00 Ford-Cosworth",
+                    "class": "F-USA_Gen2"
+                },
+                {
+                    "id": -845636149,
+                    "name": "Lola B2K00 Ford-Cosworth",
+                    "class": "F-USA_Gen3"
+                },
+                {
+                    "id": 1305671580,
+                    "name": "Lola B2K00 Mercedes-Benz",
+                    "class": "F-USA_Gen3"
+                },
+                {
+                    "id": -1883533152,
+                    "name": "Lola B2K00 Toyota",
+                    "class": "F-USA_Gen3"
+                },
+                {
+                    "id": -794072085,
+                    "name": "Reynard 95i Ford-Cosworth",
+                    "class": "F-USA_Gen1"
+                },
+                {
+                    "id": 243649723,
+                    "name": "Reynard 95i Honda",
+                    "class": "F-USA_Gen1"
+                },
+                {
+                    "id": -832846400,
+                    "name": "Reynard 95i Mercedes-Benz",
+                    "class": "F-USA_Gen1"
+                },
+                {
+                    "id": -406287657,
+                    "name": "Reynard 98i Ford-Cosworth",
+                    "class": "F-USA_Gen2"
+                },
+                {
+                    "id": 2011027431,
+                    "name": "Reynard 98i Honda",
+                    "class": "F-USA_Gen2"
+                },
+                {
+                    "id": 174857498,
+                    "name": "Reynard 98i Mercedes-Benz",
+                    "class": "F-USA_Gen2"
+                },
+                {
+                    "id": -1212556546,
+                    "name": "Reynard 98i Toyota",
+                    "class": "F-USA_Gen2"
+                },
+                {
+                    "id": 990042821,
+                    "name": "Reynard 2Ki Ford-Cosworth",
+                    "class": "F-USA_Gen3"
+                },
+                {
+                    "id": 1530597907,
+                    "name": "Reynard 2Ki Honda",
+                    "class": "F-USA_Gen3"
+                },
+                {
+                    "id": 290327508,
+                    "name": "Reynard 2Ki Mercedes-Benz",
+                    "class": "F-USA_Gen3"
+                },
+                {
+                    "id": -564338836,
+                    "name": "Reynard 2Ki Toyota",
+                    "class": "F-USA_Gen3"
+                },
+                {
+                    "id": 943684424,
+                    "name": "Swift 009c Ford-Cosworth",
+                    "class": "F-USA_Gen2"
+                },
+                {
+                    "id": -354497004,
+                    "name": "Formula Dirt",
+                    "class": "F-Dirt"
+                },
+                {
+                    "id": -1084561430,
+                    "name": "Kart Cross",
+                    "class": "Kartcross"
+                },
+                {
+                    "id": -69155277,
+                    "name": "MINI Countryman R60 RX",
+                    "class": "RX"
+                },
+                {
+                    "id": -983006067,
+                    "name": "Citroen DS3 RX",
+                    "class": "RX"
+                },
+                {
+                    "id": 2037619631,
+                    "name": "Volkswagen Polo RX",
+                    "class": "RX"
+                },
+                {
+                    "id": 512055145,
+                    "name": "Mitsubishi Lancer Evo10 RX",
+                    "class": "RX"
+                }
+            ]
+        }
+    }
+}
