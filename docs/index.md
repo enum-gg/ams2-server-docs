@@ -11,6 +11,9 @@ hero:
 #      text: Overview
 #      link: /markdown-examples
     - theme: alt
+      text: Overview
+      link: /overview
+    - theme: alt
       text: Vehicle IDs
       link: /id/vehicle
     - theme: alt
@@ -22,7 +25,7 @@ hero:
 
 features:
   - title: Last Updated
-    details: 05/01/2024
+    details: 15th March, 2024
 #  - title: Feature B
 #    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 #  - title: Feature C

@@ -1,5 +1,5 @@
 <script setup>
-    import { data } from './vehicle-classes.data.js'
+    import { response as data } from './../dumps/vehicle_classes.json'
 </script>
 
 <style>

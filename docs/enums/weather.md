@@ -1,7 +1,7 @@
 <script setup>
-import { data } from './enums.data.ts';
+import { response as enums } from './../dumps/enums.json'
 
-const details = data.weather
+const details = enums.weather
 </script>
 
 <style>

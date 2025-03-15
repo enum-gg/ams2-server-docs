@@ -1,6 +1,6 @@
 <script setup>
-import { data } from './vehicle.data.js'
-import { data as vehicle_classes } from './vehicle-classes.data.js'
+import { response as vehicle_classes } from './../dumps/vehicle_classes.json'
+import { response as data } from './../dumps/vehicles.json'
 
 const lookup = vehicle_classes.list.reduce((acc, item) => {
     acc[item.name] = item.value;

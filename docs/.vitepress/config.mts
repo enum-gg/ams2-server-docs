@@ -60,13 +60,21 @@ export default defineConfig({
                 base: 'id',
                 items: [
                     {
+                        text: 'API', base: 'api', items: [
+                            {text: 'Endpoints', link: '/endpoints'}
+                        ]
+                    },
+                    {
                         text: 'Enumerables', base: 'enums', collapsed: false, items: [
                             {text: 'Camera View', link: '/camera-view'},
                             {text: 'Damage', link: '/damage'},
                             {text: 'Fuel Usage', link: '/fuel-usage'},
                             {text: 'Game Mode', link: '/game-mode'},
+                            {text: 'Grid Position', link: '/grid-position'},
                             {text: 'Random Failures', link: '/random-failures'},
                             {text: 'Penalties', link: '/penalties'},
+                            {text: 'Pit Control', link: '/pit-control'},
+                            {text: 'Reputation', link: '/reputation'},
                             {text: 'Tire Wear', link: '/tire-wear'},
                             {text: 'Weather', link: '/weather'}
                         ]

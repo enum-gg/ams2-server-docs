@@ -1,5 +1,5 @@
 <script setup>
-    import { data } from './liveries.data.js'
+import { response as data } from './../dumps/liveries.json'
 </script>
 
 <style scoped>

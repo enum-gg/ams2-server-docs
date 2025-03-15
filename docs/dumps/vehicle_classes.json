@@ -1,0 +1,376 @@
+{
+  "result" : "ok",
+  "response" : {
+    "description" : "All known vehicle classes",
+    "list" : [
+      {
+        "value" : 1043219688,
+        "name" : "F-3"
+      },
+      {
+        "value" : 1087283261,
+        "name" : "LMP2_Gen1"
+      },
+      {
+        "value" : 1101044510,
+        "name" : "GT3_Gen2"
+      },
+      {
+        "value" : 1106030381,
+        "name" : "F-Ultimate"
+      },
+      {
+        "value" : 1183960633,
+        "name" : "StockCarV8_2020"
+      },
+      {
+        "value" : 1214699363,
+        "name" : "F-Retro_Gen1"
+      },
+      {
+        "value" : 1217280833,
+        "name" : "OldStock"
+      },
+      {
+        "value" : 122211381,
+        "name" : "Cat_Academy"
+      },
+      {
+        "value" : 1242038633,
+        "name" : "F-V10_Gen2"
+      },
+      {
+        "value" : 1242485147,
+        "name" : "KartShifter"
+      },
+      {
+        "value" : 1255629241,
+        "name" : "F-Classic_Gen3"
+      },
+      {
+        "value" : 1260887313,
+        "name" : "Opala79"
+      },
+      {
+        "value" : 1282629711,
+        "name" : "P1Gen2"
+      },
+      {
+        "value" : 1323122160,
+        "name" : "GT1"
+      },
+      {
+        "value" : 1342781418,
+        "name" : "F-Trainer_A"
+      },
+      {
+        "value" : 1347575036,
+        "name" : "P1"
+      },
+      {
+        "value" : 1357714335,
+        "name" : "TC60S2"
+      },
+      {
+        "value" : 1553262379,
+        "name" : "GT4"
+      },
+      {
+        "value" : 1559064669,
+        "name" : "F-Vee"
+      },
+      {
+        "value" : 1574895952,
+        "name" : "Hypercars"
+      },
+      {
+        "value" : 1734909113,
+        "name" : "Carrera Cup"
+      },
+      {
+        "value" : 1740243009,
+        "name" : "GTE"
+      },
+      {
+        "value" : 1754258698,
+        "name" : "F-Trainer"
+      },
+      {
+        "value" : 2018873511,
+        "name" : "F-USA_Gen1"
+      },
+      {
+        "value" : 2084530285,
+        "name" : "F-USA_Gen2"
+      },
+      {
+        "value" : 227192681,
+        "name" : "F-Vintage_Gen2"
+      },
+      {
+        "value" : -1989076874,
+        "name" : "Kart125cc"
+      },
+      {
+        "value" : -1985650835,
+        "name" : "RX"
+      },
+      {
+        "value" : -1983642801,
+        "name" : "MiniChallenge"
+      },
+      {
+        "value" : 232301361,
+        "name" : "Kartcross"
+      },
+      {
+        "value" : -1783810445,
+        "name" : "STT"
+      },
+      {
+        "value" : -1774345913,
+        "name" : "CopaUno"
+      },
+      {
+        "value" : -1773220174,
+        "name" : "CopaClassicFL"
+      },
+      {
+        "value" : -1710882048,
+        "name" : "P4"
+      },
+      {
+        "value" : -1689111246,
+        "name" : "KartRental"
+      },
+      {
+        "value" : -1614293342,
+        "name" : "KartGX390"
+      },
+      {
+        "value" : -1453448982,
+        "name" : "StockCar99"
+      },
+      {
+        "value" : -1418553548,
+        "name" : "Procar"
+      },
+      {
+        "value" : -1388199464,
+        "name" : "Hot Cars"
+      },
+      {
+        "value" : -1372148105,
+        "name" : "DPI"
+      },
+      {
+        "value" : 29233678,
+        "name" : "StockCarV8_2021"
+      },
+      {
+        "value" : -1358908608,
+        "name" : "GT5"
+      },
+      {
+        "value" : -1338470134,
+        "name" : "ARC_Cam"
+      },
+      {
+        "value" : -1276839914,
+        "name" : "CopaClassicB"
+      },
+      {
+        "value" : -1271013239,
+        "name" : "TSICup"
+      },
+      {
+        "value" : -1270088329,
+        "name" : "Group A"
+      },
+      {
+        "value" : -1200372575,
+        "name" : "Supercars"
+      },
+      {
+        "value" : -1165550561,
+        "name" : "CopaFusca"
+      },
+      {
+        "value" : -1097982207,
+        "name" : "SuperV8"
+      },
+      {
+        "value" : -1091733035,
+        "name" : "StockCarV8_2024"
+      },
+      {
+        "value" : -1070382248,
+        "name" : "G40Cup"
+      },
+      {
+        "value" : -1068384799,
+        "name" : "F-Classic_Gen4"
+      },
+      {
+        "value" : -1049783369,
+        "name" : "StockCarV8_2022"
+      },
+      {
+        "value" : -1039818744,
+        "name" : "F-Junior"
+      },
+      {
+        "value" : -1016264564,
+        "name" : "TC70S"
+      },
+      {
+        "value" : -962921788,
+        "name" : "TC60S"
+      },
+      {
+        "value" : -911791795,
+        "name" : "Super Trofeo"
+      },
+      {
+        "value" : -900542257,
+        "name" : "F-Hitech_Gen1"
+      },
+      {
+        "value" : 341043806,
+        "name" : "SuperKart"
+      },
+      {
+        "value" : -883865111,
+        "name" : "F-USA_Gen3"
+      },
+      {
+        "value" : -859240302,
+        "name" : "CopaTruck"
+      },
+      {
+        "value" : -837115715,
+        "name" : "LMDh"
+      },
+      {
+        "value" : -610085299,
+        "name" : "F-Hitech_Gen2"
+      },
+      {
+        "value" : -564539194,
+        "name" : "LMP2"
+      },
+      {
+        "value" : -553893888,
+        "name" : "P2"
+      },
+      {
+        "value" : 374379774,
+        "name" : "Montana"
+      },
+      {
+        "value" : 382290110,
+        "name" : "G55Supercup"
+      },
+      {
+        "value" : -403229570,
+        "name" : "F-USA_2023"
+      },
+      {
+        "value" : -382267785,
+        "name" : "Cat_Superlight"
+      },
+      {
+        "value" : -299585121,
+        "name" : "F-V12"
+      },
+      {
+        "value" : -217808338,
+        "name" : "StockCarV8_2023"
+      },
+      {
+        "value" : -112887377,
+        "name" : "GT3"
+      },
+      {
+        "value" : -72151851,
+        "name" : "Cat_Supersport"
+      },
+      {
+        "value" : -37194732,
+        "name" : "F-Inter"
+      },
+      {
+        "value" : -22587363,
+        "name" : "F-V10_Gen1"
+      },
+      {
+        "value" : -4032086,
+        "name" : "F-Reiza"
+      },
+      {
+        "value" : 430049282,
+        "name" : "Street"
+      },
+      {
+        "value" : 477739468,
+        "name" : "F-Retro_Gen3"
+      },
+      {
+        "value" : 492525831,
+        "name" : "StockCarV8"
+      },
+      {
+        "value" : 4952537,
+        "name" : "LancerCup"
+      },
+      {
+        "value" : 49926370,
+        "name" : "F-Ultimate_Gen2"
+      },
+      {
+        "value" : 520250275,
+        "name" : "F-Vintage_Gen1"
+      },
+      {
+        "value" : 538991900,
+        "name" : "Cat620R"
+      },
+      {
+        "value" : 6496832,
+        "name" : "Opala86"
+      },
+      {
+        "value" : 719172364,
+        "name" : "F-Retro_Gen2"
+      },
+      {
+        "value" : 801463365,
+        "name" : "GTOpen"
+      },
+      {
+        "value" : 829452122,
+        "name" : "P3"
+      },
+      {
+        "value" : 843858811,
+        "name" : "F-Classic_Gen2"
+      },
+      {
+        "value" : 869498920,
+        "name" : "F-Dirt"
+      },
+      {
+        "value" : 891493676,
+        "name" : "SprintRace"
+      },
+      {
+        "value" : 913480074,
+        "name" : "F-Classic_Gen1"
+      },
+      {
+        "value" : 995310913,
+        "name" : "Group C"
+      }
+    ]
+  }
+}

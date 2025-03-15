@@ -1,7 +1,7 @@
 <script setup>
-import { data } from './enums.data.ts';
+import { response as enums } from './../dumps/enums.json'
 
-const details = data.allowed_view
+const details = enums.allowed_view
 </script>
 
 <style>

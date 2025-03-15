@@ -1,7 +1,7 @@
 <script setup>
 import { response as enums } from './../dumps/enums.json'
 
-const details = enums.fuel_usage
+const details = enums.online_rep
 </script>
 
 <style>
@@ -11,7 +11,7 @@ const details = enums.fuel_usage
 }
 </style>
 
-# Fuel Usage
+# Online Reputation
 
 {{ details.description }}
 

@@ -1,7 +1,7 @@
 <script setup>
-import { data } from './enums.data.ts';
+import { response as enums } from './../dumps/enums.json'
 
-const details = data.penalties
+const details = enums.penalties
 </script>
 
 <style>

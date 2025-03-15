@@ -1,7 +1,8 @@
 <script setup>
-import { data } from './enums.data.ts';
+import { response as enums } from './../dumps/enums.json'
 
-const details = data.damage
+const damage = enums.damage
+const damage_scale = enums.damage_scale
 </script>
 
 <style>
@@ -13,7 +14,7 @@ const details = data.damage
 
 # Damage
 
-{{ details.description }}
+{{ damage.description }}
 
 <table>
     <thead>
@@ -21,7 +22,7 @@ const details = data.damage
         <th>ID</th>
     </thead>
     <tbody>
-        <tr v-for="(enum_item, index) in details.list" :key="index">
+        <tr v-for="(enum_item, index) in damage.list" :key="index">
             <td>{{ enum_item.name }}</td>
             <td><Badge class="selectable-group" type="tip">{{ enum_item.value }}</Badge></td>
         </tr>
@@ -32,7 +33,7 @@ const details = data.damage
 
 # Damage Scale
 
-{{ details.description }}
+{{ damage_scale.description }}
 
 <table>
     <thead>
@@ -40,7 +41,7 @@ const details = data.damage
         <th>ID</th>
     </thead>
     <tbody>
-        <tr v-for="(enum_item, index) in details.list" :key="index">
+        <tr v-for="(enum_item, index) in damage_scale.list" :key="index">
             <td>{{ enum_item.name }}</td>
             <td><Badge class="selectable-group" type="tip">{{ enum_item.value }}</Badge></td>
         </tr>

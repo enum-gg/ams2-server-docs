@@ -1,5 +1,5 @@
 <script setup>
-    import { data } from './tracks.data.js'
+import { response as data } from './../dumps/tracks.json'
 </script>
 
 <style>
