@@ -111,9 +111,8 @@ export default defineConfig({
         ]
     },
     head: [['script', {
-        src: 'https://cdn.usefathom.com/script.js',
-        'data-site': 'RREQYGCQ',
-        'data-spa': 'auto',
+        src: 'https://plausible.io/js/script.outbound-links.js',
+        'data-domain': 'ams2.enum.gg',
         defer: ''
     }]]
 })
