@@ -25,7 +25,7 @@ hero:
 
 features:
   - title: Last Updated
-    details: 15th March, 2024
+    details: 15th March, 2025
 #  - title: Feature B
 #    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 #  - title: Feature C
