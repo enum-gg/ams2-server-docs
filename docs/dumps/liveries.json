@@ -27,6 +27,165 @@
         "class" : "LMDh"
       },
       {
+        "id" : 969706465,
+        "name" : "Alpine A110 GT4 Evo",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Alpine A110 GT4 Evo #36"
+          },
+          {
+            "id" : 51,
+            "name" : "Alpine A110 GT4 Evo #36b"
+          },
+          {
+            "id" : 52,
+            "name" : "Alpine A110 GT4 Evo #63"
+          },
+          {
+            "id" : 53,
+            "name" : "Alpine A110 GT4 Evo #64"
+          },
+          {
+            "id" : 54,
+            "name" : "Alpine A110 GT4 Evo #65"
+          }
+        ],
+        "class" : "GT4"
+      },
+      {
+        "id" : -896587240,
+        "name" : "Aston Martin Valkyrie Hypercar",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Aston Martin Valkyrie Hypercar #23 (IMSA 2025)"
+          },
+          {
+            "id" : 51,
+            "name" : "Aston Martin Valkyrie Hypercar #007"
+          },
+          {
+            "id" : 52,
+            "name" : "Aston Martin Valkyrie Hypercar #009"
+          },
+          {
+            "id" : 53,
+            "name" : "Aston Martin Valkyrie Hypercar #909"
+          }
+        ],
+        "class" : "LMDh"
+      },
+      {
+        "id" : 1401532035,
+        "name" : "Aston Martin Vantage GTE",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "AMR Vantage GTE #007"
+          },
+          {
+            "id" : 51,
+            "name" : "AMR Vantage GTE #1"
+          },
+          {
+            "id" : 52,
+            "name" : "AMR Vantage GTE #2"
+          },
+          {
+            "id" : 53,
+            "name" : "AMR Vantage GTE #5"
+          },
+          {
+            "id" : 54,
+            "name" : "AMR Vantage GTE #12"
+          },
+          {
+            "id" : 55,
+            "name" : "AMR Vantage GTE #22"
+          },
+          {
+            "id" : 56,
+            "name" : "AMR Vantage GTE #30"
+          },
+          {
+            "id" : 57,
+            "name" : "AMR Vantage GTE #44"
+          }
+        ],
+        "class" : "GTE"
+      },
+      {
+        "id" : 1327147786,
+        "name" : "Aston Martin Vantage GT3 Evo",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "AMR Vantage GT3 Evo #23 (IMSA 2024)"
+          },
+          {
+            "id" : 51,
+            "name" : "AMR Vantage GT3 Evo #27 (IMSA 2024)"
+          },
+          {
+            "id" : 52,
+            "name" : "AMR Vantage GT3 Evo #44 (IMSA 2024)"
+          },
+          {
+            "id" : 53,
+            "name" : "AMR Vantage GT3 Evo #007"
+          },
+          {
+            "id" : 54,
+            "name" : "AMR Vantage GT3 Evo #42"
+          },
+          {
+            "id" : 55,
+            "name" : "AMR Vantage GT3 Evo #73"
+          },
+          {
+            "id" : 56,
+            "name" : "AMR Vantage GT3 Evo #98"
+          },
+          {
+            "id" : 57,
+            "name" : "AMR Vantage GT3 Evo #999"
+          }
+        ],
+        "class" : "GT3_Gen2"
+      },
+      {
+        "id" : -524222514,
+        "name" : "Aston Martin Vantage GT4 Evo",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "AMR Vantage GT4 Evo #301"
+          },
+          {
+            "id" : 51,
+            "name" : "AMR Vantage GT4 Evo #302"
+          },
+          {
+            "id" : 52,
+            "name" : "AMR Vantage GT4 Evo #303"
+          },
+          {
+            "id" : 53,
+            "name" : "AMR Vantage GT4 Evo #304"
+          },
+          {
+            "id" : 54,
+            "name" : "AMR Vantage GT4 Evo #305"
+          },
+          {
+            "id" : 55,
+            "name" : "AMR Vantage GT4 Evo #306"
+          }
+        ],
+        "class" : "GT4"
+      },
+      {
         "id" : -340376700,
         "name" : "Audi V8 quattro DTM",
         "liveries" : [
@@ -106,7 +265,7 @@
         "liveries" : [
           {
             "id" : 50,
-            "name" : "Audi R8 LMS GT3 evo II #23"
+            "name" : "Audi R8 LMS GT3 evo II #24"
           },
           {
             "id" : 51,
@@ -5348,6 +5507,133 @@
         "class" : "LMDh"
       },
       {
+        "id" : 1561601348,
+        "name" : "Ligier JS2 R",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Ligier JS2 R #00"
+          },
+          {
+            "id" : 51,
+            "name" : "Ligier JS2 R #01"
+          },
+          {
+            "id" : 52,
+            "name" : "Ligier JS2 R #02"
+          },
+          {
+            "id" : 53,
+            "name" : "Ligier JS2 R #03"
+          },
+          {
+            "id" : 54,
+            "name" : "Ligier JS2 R #04"
+          },
+          {
+            "id" : 55,
+            "name" : "Ligier JS2 R #05"
+          },
+          {
+            "id" : 56,
+            "name" : "Ligier JS2 R #06"
+          },
+          {
+            "id" : 57,
+            "name" : "Ligier JS2 R #07"
+          },
+          {
+            "id" : 58,
+            "name" : "Ligier JS2 R #08"
+          },
+          {
+            "id" : 59,
+            "name" : "Ligier JS2 R #09"
+          },
+          {
+            "id" : 60,
+            "name" : "Ligier JS2 R #10"
+          },
+          {
+            "id" : 61,
+            "name" : "Ligier JS2 R #11"
+          },
+          {
+            "id" : 62,
+            "name" : "Ligier JS2 R #55"
+          },
+          {
+            "id" : 63,
+            "name" : "Ligier JS2 R #60"
+          },
+          {
+            "id" : 64,
+            "name" : "Ligier JS2 R #76"
+          },
+          {
+            "id" : 65,
+            "name" : "Ligier JS2 R #79"
+          },
+          {
+            "id" : 66,
+            "name" : "Ligier JS2 R #80"
+          },
+          {
+            "id" : 67,
+            "name" : "Ligier JS2 R #85"
+          },
+          {
+            "id" : 68,
+            "name" : "Ligier JS2 R #88"
+          },
+          {
+            "id" : 69,
+            "name" : "Ligier JS2 R #90"
+          },
+          {
+            "id" : 70,
+            "name" : "Ligier JS2 R #92"
+          },
+          {
+            "id" : 71,
+            "name" : "Ligier JS2 R #95"
+          },
+          {
+            "id" : 72,
+            "name" : "Ligier JS2 R #99"
+          },
+          {
+            "id" : 73,
+            "name" : "Ligier JS2 R #121"
+          },
+          {
+            "id" : 74,
+            "name" : "Ligier JS2 R #132"
+          },
+          {
+            "id" : 75,
+            "name" : "Ligier JS2 R #144"
+          },
+          {
+            "id" : 76,
+            "name" : "Ligier JS2 R #157"
+          },
+          {
+            "id" : 77,
+            "name" : "Ligier JS2 R #161"
+          },
+          {
+            "id" : 78,
+            "name" : "Ligier JS2 R #180"
+          },
+          {
+            "id" : 79,
+            "name" : "Ligier JS2 R #182"
+          }
+        ],
+        "class" : "LES_2025"
+      },
+      {
         "id" : 1353949246,
         "name" : "Mercedes-AMG GT3",
         "liveries" : [
@@ -5831,7 +6117,7 @@
         "liveries" : [
           {
             "id" : 50,
-            "name" : "McLaren F1 GTR #01"
+            "name" : "My Racing Team #12"
           },
           {
             "id" : 51,
@@ -8521,83 +8807,83 @@
         "liveries" : [
           {
             "id" : 50,
-            "name" : "Super Throphy Trucks #4"
+            "name" : "Super Trophy Trucks #4"
           },
           {
             "id" : 51,
-            "name" : "Super Throphy Trucks #5"
+            "name" : "Super Trophy Trucks #5"
           },
           {
             "id" : 52,
-            "name" : "Super Throphy Trucks #6"
+            "name" : "Super Trophy Trucks #6"
           },
           {
             "id" : 53,
-            "name" : "Super Throphy Trucks #7"
+            "name" : "Super Trophy Trucks #7"
           },
           {
             "id" : 54,
-            "name" : "Super Throphy Trucks #8"
+            "name" : "Super Trophy Trucks #8"
           },
           {
             "id" : 55,
-            "name" : "Super Throphy Trucks #9"
+            "name" : "Super Trophy Trucks #9"
           },
           {
             "id" : 56,
-            "name" : "Super Throphy Trucks #10"
+            "name" : "Super Trophy Trucks #10"
           },
           {
             "id" : 57,
-            "name" : "Super Throphy Trucks #11"
+            "name" : "Super Trophy Trucks #11"
           },
           {
             "id" : 58,
-            "name" : "Super Throphy Trucks #17"
+            "name" : "Super Trophy Trucks #17"
           },
           {
             "id" : 59,
-            "name" : "Super Throphy Trucks #30"
+            "name" : "Super Trophy Trucks #30"
           },
           {
             "id" : 60,
-            "name" : "Super Throphy Trucks #46"
+            "name" : "Super Trophy Trucks #46"
           },
           {
             "id" : 61,
-            "name" : "Super Throphy Trucks #50"
+            "name" : "Super Trophy Trucks #50"
           },
           {
             "id" : 62,
-            "name" : "Super Throphy Trucks #60"
+            "name" : "Super Trophy Trucks #60"
           },
           {
             "id" : 63,
-            "name" : "Super Throphy Trucks #72"
+            "name" : "Super Trophy Trucks #72"
           },
           {
             "id" : 64,
-            "name" : "Super Throphy Trucks #85"
+            "name" : "Super Trophy Trucks #85"
           },
           {
             "id" : 65,
-            "name" : "Super Throphy Trucks #92"
+            "name" : "Super Trophy Trucks #92"
           },
           {
             "id" : 66,
-            "name" : "Super Throphy Trucks #96"
+            "name" : "Super Trophy Trucks #96"
           },
           {
             "id" : 67,
-            "name" : "Super Throphy Trucks #97"
+            "name" : "Super Trophy Trucks #97"
           },
           {
             "id" : 68,
-            "name" : "Super Throphy Trucks #98"
+            "name" : "Super Trophy Trucks #98"
           },
           {
             "id" : 69,
-            "name" : "Super Throphy Trucks #99"
+            "name" : "Super Trophy Trucks #99"
           }
         ],
         "class" : "STT"

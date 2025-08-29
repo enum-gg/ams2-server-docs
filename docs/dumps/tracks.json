@@ -948,36 +948,28 @@
         "default_year" : 2020
       },
       {
-        "id" : 899109770,
-        "name" : "Nurb_GP_2020",
+        "id" : -1789057785,
+        "name" : "Nordschleife_2025",
+        "gridsize" : 28,
+        "default_day" : 1,
+        "default_month" : 7,
+        "default_year" : 2025
+      },
+      {
+        "id" : -864856074,
+        "name" : "Nordschleife_2025_24hr",
         "gridsize" : 32,
-        "default_day" : 1,
-        "default_month" : 9,
-        "default_year" : 2020
+        "default_day" : 21,
+        "default_month" : 6,
+        "default_year" : 2025
       },
       {
-        "id" : -581740816,
-        "name" : "Nurb_GP_2020_Veedol",
+        "id" : -1999809693,
+        "name" : "Nurb_1971_Beton",
         "gridsize" : 32,
-        "default_day" : 1,
-        "default_month" : 9,
-        "default_year" : 2020
-      },
-      {
-        "id" : 1133983668,
-        "name" : "Nurb_GP_2020_Sprint",
-        "gridsize" : 30,
-        "default_day" : 1,
-        "default_month" : 9,
-        "default_year" : 2020
-      },
-      {
-        "id" : 1819021861,
-        "name" : "Nurb_GP_2020_Sprint_S",
-        "gridsize" : 30,
-        "default_day" : 1,
-        "default_month" : 9,
-        "default_year" : 2020
+        "default_day" : 5,
+        "default_month" : 7,
+        "default_year" : 1971
       },
       {
         "id" : -1099915987,
@@ -1004,20 +996,52 @@
         "default_year" : 1971
       },
       {
-        "id" : -1999809693,
-        "name" : "Nurb_1971_Beton",
-        "gridsize" : 32,
-        "default_day" : 5,
-        "default_month" : 7,
-        "default_year" : 1971
-      },
-      {
         "id" : -1012344423,
         "name" : "Nurb_2020_RX",
         "gridsize" : 8,
         "default_day" : 13,
         "default_month" : 11,
         "default_year" : 2022
+      },
+      {
+        "id" : 899109770,
+        "name" : "Nurb_GP_2020",
+        "gridsize" : 32,
+        "default_day" : 1,
+        "default_month" : 9,
+        "default_year" : 2020
+      },
+      {
+        "id" : 1133983668,
+        "name" : "Nurb_GP_2020_Sprint",
+        "gridsize" : 30,
+        "default_day" : 1,
+        "default_month" : 9,
+        "default_year" : 2020
+      },
+      {
+        "id" : 1819021861,
+        "name" : "Nurb_GP_2020_Sprint_S",
+        "gridsize" : 30,
+        "default_day" : 1,
+        "default_month" : 9,
+        "default_year" : 2020
+      },
+      {
+        "id" : -581740816,
+        "name" : "Nurb_GP_2020_Veedol",
+        "gridsize" : 32,
+        "default_day" : 1,
+        "default_month" : 9,
+        "default_year" : 2020
+      },
+      {
+        "id" : -741729925,
+        "name" : "Nurb_GP_2025",
+        "gridsize" : 32,
+        "default_day" : 1,
+        "default_month" : 9,
+        "default_year" : 2025
       },
       {
         "id" : 809214670,

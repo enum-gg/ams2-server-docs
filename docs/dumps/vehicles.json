@@ -9,6 +9,31 @@
         "class" : "LMDh"
       },
       {
+        "id" : 969706465,
+        "name" : "Alpine A110 GT4 Evo",
+        "class" : "GT4"
+      },
+      {
+        "id" : -896587240,
+        "name" : "Aston Martin Valkyrie Hypercar",
+        "class" : "LMDh"
+      },
+      {
+        "id" : 1401532035,
+        "name" : "Aston Martin Vantage GTE",
+        "class" : "GTE"
+      },
+      {
+        "id" : 1327147786,
+        "name" : "Aston Martin Vantage GT3 Evo",
+        "class" : "GT3_Gen2"
+      },
+      {
+        "id" : -524222514,
+        "name" : "Aston Martin Vantage GT4 Evo",
+        "class" : "GT4"
+      },
+      {
         "id" : -340376700,
         "name" : "Audi V8 quattro DTM",
         "class" : "Group A"
@@ -562,6 +587,11 @@
         "id" : 1122735892,
         "name" : "Lamborghini SC63",
         "class" : "LMDh"
+      },
+      {
+        "id" : 1561601348,
+        "name" : "Ligier JS2 R",
+        "class" : "LES_2025"
       },
       {
         "id" : 1353949246,

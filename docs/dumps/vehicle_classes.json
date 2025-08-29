@@ -5,371 +5,468 @@
     "list" : [
       {
         "value" : 1043219688,
-        "name" : "F-3"
+        "name" : "F-3",
+        "translated_name" : "F3 Brasil"
       },
       {
         "value" : 1087283261,
-        "name" : "LMP2_Gen1"
+        "name" : "LMP2_Gen1",
+        "translated_name" : "LMP2 Gen1"
       },
       {
         "value" : 1101044510,
-        "name" : "GT3_Gen2"
+        "name" : "GT3_Gen2",
+        "translated_name" : "GT3 Gen2"
       },
       {
         "value" : 1106030381,
-        "name" : "F-Ultimate"
+        "name" : "F-Ultimate",
+        "translated_name" : "Formula Ultimate"
       },
       {
         "value" : 1183960633,
-        "name" : "StockCarV8_2020"
+        "name" : "StockCarV8_2020",
+        "translated_name" : "Stock Car Brasil 2020"
       },
       {
         "value" : 1214699363,
-        "name" : "F-Retro_Gen1"
+        "name" : "F-Retro_Gen1",
+        "translated_name" : "Formula Retro Gen1"
       },
       {
         "value" : 1217280833,
-        "name" : "OldStock"
+        "name" : "OldStock",
+        "translated_name" : "Old Stock"
       },
       {
         "value" : 122211381,
-        "name" : "Cat_Academy"
+        "name" : "Cat_Academy",
+        "translated_name" : "Caterham Academy"
       },
       {
         "value" : 1242038633,
-        "name" : "F-V10_Gen2"
+        "name" : "F-V10_Gen2",
+        "translated_name" : "Formula V10 Gen2"
       },
       {
         "value" : 1242485147,
-        "name" : "KartShifter"
+        "name" : "KartShifter",
+        "translated_name" : "Kart Shifter"
       },
       {
         "value" : 1255629241,
-        "name" : "F-Classic_Gen3"
+        "name" : "F-Classic_Gen3",
+        "translated_name" : "Formula Classic Gen3"
       },
       {
         "value" : 1260887313,
-        "name" : "Opala79"
+        "name" : "Opala79",
+        "translated_name" : "Opala 79"
       },
       {
         "value" : 1282629711,
-        "name" : "P1Gen2"
+        "name" : "P1Gen2",
+        "translated_name" : "P1 Gen2"
       },
       {
         "value" : 1323122160,
-        "name" : "GT1"
+        "name" : "GT1",
+        "translated_name" : "GT1"
       },
       {
         "value" : 1342781418,
-        "name" : "F-Trainer_A"
+        "name" : "F-Trainer_A",
+        "translated_name" : "Formula Trainer Advanced"
       },
       {
         "value" : 1347575036,
-        "name" : "P1"
+        "name" : "P1",
+        "translated_name" : "P1"
       },
       {
         "value" : 1357714335,
-        "name" : "TC60S2"
+        "name" : "TC60S2",
+        "translated_name" : "Vintage Touring Cars - Tier 2"
       },
       {
         "value" : 1553262379,
-        "name" : "GT4"
+        "name" : "GT4",
+        "translated_name" : "GT4"
       },
       {
         "value" : 1559064669,
-        "name" : "F-Vee"
+        "name" : "F-Vee",
+        "translated_name" : "Formula Vee Brasil"
       },
       {
         "value" : 1574895952,
-        "name" : "Hypercars"
+        "name" : "Hypercars",
+        "translated_name" : "Hypercars"
       },
       {
         "value" : 1734909113,
-        "name" : "Carrera Cup"
+        "name" : "Carrera Cup",
+        "translated_name" : "Porsche Carrera Cup"
       },
       {
         "value" : 1740243009,
-        "name" : "GTE"
+        "name" : "GTE",
+        "translated_name" : "GTE"
       },
       {
         "value" : 1754258698,
-        "name" : "F-Trainer"
+        "name" : "F-Trainer",
+        "translated_name" : "Formula Trainer"
       },
       {
         "value" : 2018873511,
-        "name" : "F-USA_Gen1"
+        "name" : "F-USA_Gen1",
+        "translated_name" : "Formula USA Gen1"
       },
       {
         "value" : 2084530285,
-        "name" : "F-USA_Gen2"
+        "name" : "F-USA_Gen2",
+        "translated_name" : "Formula USA Gen2"
       },
       {
         "value" : 227192681,
-        "name" : "F-Vintage_Gen2"
+        "name" : "F-Vintage_Gen2",
+        "translated_name" : "Formula Vintage Gen2"
       },
       {
         "value" : -1989076874,
-        "name" : "Kart125cc"
+        "name" : "Kart125cc",
+        "translated_name" : "Kart 125cc"
       },
       {
         "value" : -1985650835,
-        "name" : "RX"
+        "name" : "RX",
+        "translated_name" : "RX"
       },
       {
         "value" : -1983642801,
-        "name" : "MiniChallenge"
+        "name" : "MiniChallenge",
+        "translated_name" : "Mini JCW UK"
       },
       {
         "value" : 232301361,
-        "name" : "Kartcross"
+        "name" : "Kartcross",
+        "translated_name" : "Kartcross"
       },
       {
         "value" : -1783810445,
-        "name" : "STT"
+        "name" : "STT",
+        "translated_name" : "STT"
       },
       {
         "value" : -1774345913,
-        "name" : "CopaUno"
+        "name" : "CopaUno",
+        "translated_name" : "Copa Uno"
       },
       {
         "value" : -1773220174,
-        "name" : "CopaClassicFL"
+        "name" : "CopaClassicFL",
+        "translated_name" : "Copa Classic FL"
       },
       {
         "value" : -1710882048,
-        "name" : "P4"
+        "name" : "P4",
+        "translated_name" : "P4"
       },
       {
         "value" : -1689111246,
-        "name" : "KartRental"
+        "name" : "KartRental",
+        "translated_name" : "Kart Rental"
       },
       {
         "value" : -1614293342,
-        "name" : "KartGX390"
+        "name" : "KartGX390",
+        "translated_name" : "Kart GX390"
       },
       {
         "value" : -1453448982,
-        "name" : "StockCar99"
+        "name" : "StockCar99",
+        "translated_name" : "Stock Car 99"
       },
       {
         "value" : -1418553548,
-        "name" : "Procar"
+        "name" : "Procar",
+        "translated_name" : "Procar"
       },
       {
         "value" : -1388199464,
-        "name" : "Hot Cars"
+        "name" : "Hot Cars",
+        "translated_name" : "Hot Cars"
       },
       {
         "value" : -1372148105,
-        "name" : "DPI"
+        "name" : "DPI",
+        "translated_name" : "DPI"
       },
       {
         "value" : 29233678,
-        "name" : "StockCarV8_2021"
+        "name" : "StockCarV8_2021",
+        "translated_name" : "Stock Car Brasil 2021"
       },
       {
         "value" : -1358908608,
-        "name" : "GT5"
+        "name" : "GT5",
+        "translated_name" : "GT5"
       },
       {
         "value" : -1338470134,
-        "name" : "ARC_Cam"
+        "name" : "ARC_Cam",
+        "translated_name" : "ARC Camaro"
       },
       {
         "value" : -1276839914,
-        "name" : "CopaClassicB"
+        "name" : "CopaClassicB",
+        "translated_name" : "Copa Classic B"
       },
       {
         "value" : -1271013239,
-        "name" : "TSICup"
+        "name" : "TSICup",
+        "translated_name" : "TSI Cup"
       },
       {
         "value" : -1270088329,
-        "name" : "Group A"
+        "name" : "Group A",
+        "translated_name" : "Group A"
       },
       {
         "value" : -1200372575,
-        "name" : "Supercars"
+        "name" : "Supercars",
+        "translated_name" : "Supercars"
       },
       {
         "value" : -1165550561,
-        "name" : "CopaFusca"
+        "name" : "CopaFusca",
+        "translated_name" : "Copa Fusca"
+      },
+      {
+        "value" : 31429440,
+        "name" : "LES_2025",
+        "translated_name" : "Ligier European Series"
       },
       {
         "value" : -1097982207,
-        "name" : "SuperV8"
+        "name" : "SuperV8",
+        "translated_name" : "Super V8"
       },
       {
         "value" : -1091733035,
-        "name" : "StockCarV8_2024"
+        "name" : "StockCarV8_2024",
+        "translated_name" : "StockCarV8_2024"
       },
       {
         "value" : -1070382248,
-        "name" : "G40Cup"
+        "name" : "G40Cup",
+        "translated_name" : "G40Cup"
       },
       {
         "value" : -1068384799,
-        "name" : "F-Classic_Gen4"
+        "name" : "F-Classic_Gen4",
+        "translated_name" : "Formula Classic Gen4"
       },
       {
         "value" : -1049783369,
-        "name" : "StockCarV8_2022"
+        "name" : "StockCarV8_2022",
+        "translated_name" : "Stock Car Pro Series 2022"
       },
       {
         "value" : -1039818744,
-        "name" : "F-Junior"
+        "name" : "F-Junior",
+        "translated_name" : "Formula Junior"
       },
       {
         "value" : -1016264564,
-        "name" : "TC70S"
+        "name" : "TC70S",
+        "translated_name" : "GT Classics"
       },
       {
         "value" : -962921788,
-        "name" : "TC60S"
+        "name" : "TC60S",
+        "translated_name" : "Vintage Touring Cars - Tier 1"
       },
       {
         "value" : -911791795,
-        "name" : "Super Trofeo"
+        "name" : "Super Trofeo",
+        "translated_name" : "Super Trofeo"
       },
       {
         "value" : -900542257,
-        "name" : "F-Hitech_Gen1"
+        "name" : "F-Hitech_Gen1",
+        "translated_name" : "F-Hitech Gen1"
       },
       {
         "value" : 341043806,
-        "name" : "SuperKart"
+        "name" : "SuperKart",
+        "translated_name" : "Superkart"
       },
       {
         "value" : -883865111,
-        "name" : "F-USA_Gen3"
+        "name" : "F-USA_Gen3",
+        "translated_name" : "Formula USA Gen3"
       },
       {
         "value" : -859240302,
-        "name" : "CopaTruck"
+        "name" : "CopaTruck",
+        "translated_name" : "Copa Truck"
       },
       {
         "value" : -837115715,
-        "name" : "LMDh"
+        "name" : "LMDh",
+        "translated_name" : "LMDh"
       },
       {
         "value" : -610085299,
-        "name" : "F-Hitech_Gen2"
+        "name" : "F-Hitech_Gen2",
+        "translated_name" : "F-Hitech Gen2"
       },
       {
         "value" : -564539194,
-        "name" : "LMP2"
+        "name" : "LMP2",
+        "translated_name" : "LMP2"
       },
       {
         "value" : -553893888,
-        "name" : "P2"
+        "name" : "P2",
+        "translated_name" : "P2"
       },
       {
         "value" : 374379774,
-        "name" : "Montana"
+        "name" : "Montana",
+        "translated_name" : "Copa Montana"
       },
       {
         "value" : 382290110,
-        "name" : "G55Supercup"
+        "name" : "G55Supercup",
+        "translated_name" : "G55 Supercup"
       },
       {
         "value" : -403229570,
-        "name" : "F-USA_2023"
+        "name" : "F-USA_2023",
+        "translated_name" : "Formula USA 2023"
       },
       {
         "value" : -382267785,
-        "name" : "Cat_Superlight"
+        "name" : "Cat_Superlight",
+        "translated_name" : "Caterham Superlight"
       },
       {
         "value" : -299585121,
-        "name" : "F-V12"
+        "name" : "F-V12",
+        "translated_name" : "Formula V12"
       },
       {
         "value" : -217808338,
-        "name" : "StockCarV8_2023"
+        "name" : "StockCarV8_2023",
+        "translated_name" : "Stock Car Pro Series 2023"
       },
       {
         "value" : -112887377,
-        "name" : "GT3"
+        "name" : "GT3",
+        "translated_name" : "GT3"
       },
       {
         "value" : -72151851,
-        "name" : "Cat_Supersport"
+        "name" : "Cat_Supersport",
+        "translated_name" : "Caterham Supersport"
       },
       {
         "value" : -37194732,
-        "name" : "F-Inter"
+        "name" : "F-Inter",
+        "translated_name" : "Formula Inter"
       },
       {
         "value" : -22587363,
-        "name" : "F-V10_Gen1"
+        "name" : "F-V10_Gen1",
+        "translated_name" : "Formula V10 Gen1"
       },
       {
         "value" : -4032086,
-        "name" : "F-Reiza"
+        "name" : "F-Reiza",
+        "translated_name" : "Formula Reiza"
       },
       {
         "value" : 430049282,
-        "name" : "Street"
+        "name" : "Street",
+        "translated_name" : "Street"
       },
       {
         "value" : 477739468,
-        "name" : "F-Retro_Gen3"
+        "name" : "F-Retro_Gen3",
+        "translated_name" : "Formula Retro Gen3"
       },
       {
         "value" : 492525831,
-        "name" : "StockCarV8"
+        "name" : "StockCarV8",
+        "translated_name" : "Stock Car Brasil 2019"
       },
       {
         "value" : 4952537,
-        "name" : "LancerCup"
+        "name" : "LancerCup",
+        "translated_name" : "Lancer Cup"
       },
       {
         "value" : 49926370,
-        "name" : "F-Ultimate_Gen2"
+        "name" : "F-Ultimate_Gen2",
+        "translated_name" : "Formula Ultimate Gen2"
       },
       {
         "value" : 520250275,
-        "name" : "F-Vintage_Gen1"
+        "name" : "F-Vintage_Gen1",
+        "translated_name" : "Formula Vintage Gen1"
       },
       {
         "value" : 538991900,
-        "name" : "Cat620R"
+        "name" : "Cat620R",
+        "translated_name" : "Caterham 620R"
       },
       {
         "value" : 6496832,
-        "name" : "Opala86"
+        "name" : "Opala86",
+        "translated_name" : "Opala 86"
       },
       {
         "value" : 719172364,
-        "name" : "F-Retro_Gen2"
+        "name" : "F-Retro_Gen2",
+        "translated_name" : "Formula Retro Gen2"
       },
       {
         "value" : 801463365,
-        "name" : "GTOpen"
+        "name" : "GTOpen",
+        "translated_name" : "GT Open"
       },
       {
         "value" : 829452122,
-        "name" : "P3"
+        "name" : "P3",
+        "translated_name" : "P3"
       },
       {
         "value" : 843858811,
-        "name" : "F-Classic_Gen2"
+        "name" : "F-Classic_Gen2",
+        "translated_name" : "Formula Classic Gen2"
       },
       {
         "value" : 869498920,
-        "name" : "F-Dirt"
+        "name" : "F-Dirt",
+        "translated_name" : "Formula Dirt"
       },
       {
         "value" : 891493676,
-        "name" : "SprintRace"
+        "name" : "SprintRace",
+        "translated_name" : "Sprint Race"
       },
       {
         "value" : 913480074,
-        "name" : "F-Classic_Gen1"
+        "name" : "F-Classic_Gen1",
+        "translated_name" : "Formula Classic Gen1"
       },
       {
         "value" : 995310913,
-        "name" : "Group C"
+        "name" : "Group C",
+        "translated_name" : "Group C"
       }
     ]
   }
