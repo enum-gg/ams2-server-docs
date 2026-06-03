@@ -21,7 +21,7 @@
       {
         "value" : 1106030381,
         "name" : "F-Ultimate",
-        "translated_name" : "Formula Ultimate"
+        "translated_name" : "Formula Ultimate Gen2"
       },
       {
         "value" : 1183960633,
@@ -86,7 +86,7 @@
       {
         "value" : 1357714335,
         "name" : "TC60S2",
-        "translated_name" : "Vintage Touring Cars - Tier 2"
+        "translated_name" : "Vintage Cars - Tier 2"
       },
       {
         "value" : 1553262379,
@@ -96,7 +96,7 @@
       {
         "value" : 1559064669,
         "name" : "F-Vee",
-        "translated_name" : "Formula Vee Brasil"
+        "translated_name" : "Formula Vee Brazil Gen1"
       },
       {
         "value" : 1574895952,
@@ -117,6 +117,11 @@
         "value" : 1754258698,
         "name" : "F-Trainer",
         "translated_name" : "Formula Trainer"
+      },
+      {
+        "value" : 1954678707,
+        "name" : "LMP2_05",
+        "translated_name" : "LMP2 2005"
       },
       {
         "value" : 2018873511,
@@ -154,6 +159,21 @@
         "translated_name" : "Kartcross"
       },
       {
+        "value" : -1936509418,
+        "name" : "F-Vee_Gen2",
+        "translated_name" : "Formula Vee Brazil Gen2"
+      },
+      {
+        "value" : -1923779498,
+        "name" : "GT1_05",
+        "translated_name" : "GT1 2005"
+      },
+      {
+        "value" : -1808357254,
+        "name" : "Stock_USA_Gen3_LM",
+        "translated_name" : "Stock USA Gen3 Le Mans"
+      },
+      {
         "value" : -1783810445,
         "name" : "STT",
         "translated_name" : "STT"
@@ -189,6 +209,11 @@
         "translated_name" : "Stock Car 99"
       },
       {
+        "value" : -1449456121,
+        "name" : "Stock_USA_Gen3",
+        "translated_name" : "Stock USA Gen3"
+      },
+      {
         "value" : -1418553548,
         "name" : "Procar",
         "translated_name" : "Procar"
@@ -219,6 +244,11 @@
         "translated_name" : "ARC Camaro"
       },
       {
+        "value" : -1296084638,
+        "name" : "Stock_USA_Gen2",
+        "translated_name" : "Stock USA Gen2"
+      },
+      {
         "value" : -1276839914,
         "name" : "CopaClassicB",
         "translated_name" : "Copa Classic B"
@@ -232,6 +262,11 @@
         "value" : -1270088329,
         "name" : "Group A",
         "translated_name" : "Group A"
+      },
+      {
+        "value" : -1265729887,
+        "name" : "GTR_04",
+        "translated_name" : "GTR 2004"
       },
       {
         "value" : -1200372575,
@@ -256,7 +291,7 @@
       {
         "value" : -1091733035,
         "name" : "StockCarV8_2024",
-        "translated_name" : "StockCarV8_2024"
+        "translated_name" : "Stock Car Pro Series 2024"
       },
       {
         "value" : -1070382248,
@@ -286,7 +321,7 @@
       {
         "value" : -962921788,
         "name" : "TC60S",
-        "translated_name" : "Vintage Touring Cars - Tier 1"
+        "translated_name" : "Vintage Cars - Tier 1"
       },
       {
         "value" : -911791795,
@@ -319,6 +354,21 @@
         "translated_name" : "LMDh"
       },
       {
+        "value" : 346765936,
+        "name" : "ST96",
+        "translated_name" : "Super Trofeo 96"
+      },
+      {
+        "value" : -756187674,
+        "name" : "LMP1_05",
+        "translated_name" : "LMP1 2005"
+      },
+      {
+        "value" : 358759161,
+        "name" : "Stock_USA_Gen1",
+        "translated_name" : "Stock USA Gen1"
+      },
+      {
         "value" : -610085299,
         "name" : "F-Hitech_Gen2",
         "translated_name" : "F-Hitech Gen2"
@@ -326,7 +376,7 @@
       {
         "value" : -564539194,
         "name" : "LMP2",
-        "translated_name" : "LMP2"
+        "translated_name" : "LMP2 Gen2"
       },
       {
         "value" : -553893888,
@@ -337,6 +387,11 @@
         "value" : 374379774,
         "name" : "Montana",
         "translated_name" : "Copa Montana"
+      },
+      {
+        "value" : -502453437,
+        "name" : "F-Ultimate_Gen1",
+        "translated_name" : "Formula Ultimate Gen1"
       },
       {
         "value" : 382290110,
@@ -352,11 +407,6 @@
         "value" : -382267785,
         "name" : "Cat_Superlight",
         "translated_name" : "Caterham Superlight"
-      },
-      {
-        "value" : -299585121,
-        "name" : "F-V12",
-        "translated_name" : "Formula V12"
       },
       {
         "value" : -217808338,
@@ -386,7 +436,7 @@
       {
         "value" : -4032086,
         "name" : "F-Reiza",
-        "translated_name" : "Formula Reiza"
+        "translated_name" : "Formula V8 Gen3"
       },
       {
         "value" : 430049282,
@@ -411,7 +461,7 @@
       {
         "value" : 49926370,
         "name" : "F-Ultimate_Gen2",
-        "translated_name" : "Formula Ultimate Gen2"
+        "translated_name" : "Formula Ultimate Gen3"
       },
       {
         "value" : 520250275,
@@ -432,6 +482,16 @@
         "value" : 719172364,
         "name" : "F-Retro_Gen2",
         "translated_name" : "Formula Retro Gen2"
+      },
+      {
+        "value" : 730866387,
+        "name" : "FE-G1",
+        "translated_name" : "Formula Edge Gen1"
+      },
+      {
+        "value" : 776908952,
+        "name" : "GT2_05",
+        "translated_name" : "GT2 2005"
       },
       {
         "value" : 801463365,

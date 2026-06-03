@@ -54,6 +54,92 @@
         "class" : "GT4"
       },
       {
+        "id" : 1401751841,
+        "name" : "Aston Martin DBR9",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Aston Martin DBR9 #57"
+          },
+          {
+            "id" : 51,
+            "name" : "Aston Martin DBR9 #58"
+          },
+          {
+            "id" : 52,
+            "name" : "Aston Martin DBR9 #59"
+          },
+          {
+            "id" : 53,
+            "name" : "Aston Martin DBR9 #60"
+          },
+          {
+            "id" : 54,
+            "name" : "Aston Martin DBR9 #62"
+          },
+          {
+            "id" : 55,
+            "name" : "Aston Martin DBR9 #64"
+          }
+        ],
+        "class" : "GT1_05"
+      },
+      {
+        "id" : -615502661,
+        "name" : "Aston Martin Valkyrie",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Almond Green"
+          },
+          {
+            "id" : 51,
+            "name" : "Zaffre Blue"
+          },
+          {
+            "id" : 52,
+            "name" : "Maximum Orange"
+          },
+          {
+            "id" : 53,
+            "name" : "Ethanol Silver"
+          },
+          {
+            "id" : 54,
+            "name" : "Iridescent Emerald"
+          },
+          {
+            "id" : 55,
+            "name" : "Magnetic Silver"
+          },
+          {
+            "id" : 56,
+            "name" : "Gulf Blue"
+          },
+          {
+            "id" : 57,
+            "name" : "Lunar White"
+          },
+          {
+            "id" : 58,
+            "name" : "Mariana Blue"
+          },
+          {
+            "id" : 59,
+            "name" : "Carbon Blue"
+          },
+          {
+            "id" : 60,
+            "name" : "Carbon Red"
+          },
+          {
+            "id" : 61,
+            "name" : "Jet Black"
+          }
+        ],
+        "class" : "Hypercars"
+      },
+      {
         "id" : -896587240,
         "name" : "Aston Martin Valkyrie Hypercar",
         "liveries" : [
@@ -184,6 +270,45 @@
           }
         ],
         "class" : "GT4"
+      },
+      {
+        "id" : 1466312296,
+        "name" : "Audi R8 LMP1",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Audi R8 LMP1 #2"
+          },
+          {
+            "id" : 51,
+            "name" : "Audi R8 LMP1 #3"
+          },
+          {
+            "id" : 52,
+            "name" : "Audi R8 LMP1 #4"
+          },
+          {
+            "id" : 53,
+            "name" : "Audi R8 LMP1 #5"
+          },
+          {
+            "id" : 54,
+            "name" : "Audi R8 LMP1 #9"
+          },
+          {
+            "id" : 55,
+            "name" : "Audi R8 LMP1 #10"
+          },
+          {
+            "id" : 56,
+            "name" : "Audi R8 LMP1 #12"
+          },
+          {
+            "id" : 57,
+            "name" : "Audi R8 LMP1 #88"
+          }
+        ],
+        "class" : "LMP1_05"
       },
       {
         "id" : -340376700,
@@ -320,6 +445,45 @@
           }
         ],
         "class" : "GT4"
+      },
+      {
+        "id" : 855020114,
+        "name" : "Audi R8 V10 GT",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Suzuka Grey Matte"
+          },
+          {
+            "id" : 51,
+            "name" : "Mythos Black Metallic"
+          },
+          {
+            "id" : 52,
+            "name" : "Tango Red Metallic"
+          },
+          {
+            "id" : 53,
+            "name" : "Daytona Grey Metallic"
+          },
+          {
+            "id" : 54,
+            "name" : "Goodwood Green"
+          },
+          {
+            "id" : 55,
+            "name" : "Viper Green"
+          },
+          {
+            "id" : 56,
+            "name" : "Vegas Yellow Matte"
+          },
+          {
+            "id" : 57,
+            "name" : "Ara Blue"
+          }
+        ],
+        "class" : "Supercars"
       },
       {
         "id" : 1368036017,
@@ -501,6 +665,61 @@
           }
         ],
         "class" : "LMDh"
+      },
+      {
+        "id" : -1334233081,
+        "name" : "BMW M3 E46 GTR",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "BMW M3 E46 GTR #01"
+          },
+          {
+            "id" : 51,
+            "name" : "BMW M3 E46 GTR #02"
+          },
+          {
+            "id" : 52,
+            "name" : "BMW M3 E46 GTR #21"
+          },
+          {
+            "id" : 53,
+            "name" : "BMW M3 E46 GTR #23"
+          },
+          {
+            "id" : 54,
+            "name" : "BMW M3 E46 GTR #43"
+          },
+          {
+            "id" : 55,
+            "name" : "BMW M3 E46 GTR #48"
+          },
+          {
+            "id" : 56,
+            "name" : "BMW M3 E46 GTR #58"
+          },
+          {
+            "id" : 57,
+            "name" : "BMW M3 E46 GTR #64"
+          },
+          {
+            "id" : 58,
+            "name" : "BMW M3 E46 GTR #66"
+          },
+          {
+            "id" : 59,
+            "name" : "BMW M3 E46 GTR #68"
+          },
+          {
+            "id" : 60,
+            "name" : "BMW M3 E46 GTR #75"
+          },
+          {
+            "id" : 61,
+            "name" : "BMW M3 E46 GTR #98"
+          }
+        ],
+        "class" : "GTR_04"
       },
       {
         "id" : 262982797,
@@ -768,6 +987,248 @@
           }
         ],
         "class" : "MiniChallenge"
+      },
+      {
+        "id" : 1168262642,
+        "name" : "Courage C60 Hybrid",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Courage C60 Hybrid #00"
+          },
+          {
+            "id" : 51,
+            "name" : "Courage C60 Hybrid #5"
+          },
+          {
+            "id" : 52,
+            "name" : "Courage C60 Hybrid #12"
+          },
+          {
+            "id" : 53,
+            "name" : "Courage C60 Hybrid #16"
+          },
+          {
+            "id" : 54,
+            "name" : "Courage C60 Hybrid #21"
+          },
+          {
+            "id" : 55,
+            "name" : "Courage C60 Hybrid #37"
+          },
+          {
+            "id" : 56,
+            "name" : "Courage C60 Hybrid #42"
+          },
+          {
+            "id" : 57,
+            "name" : "Courage C60 Hybrid #43"
+          }
+        ],
+        "class" : "LMP1_05"
+      },
+      {
+        "id" : -610534646,
+        "name" : "Dallara SP1",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Dallara SP1 #6"
+          },
+          {
+            "id" : 51,
+            "name" : "Dallara SP1 #7"
+          },
+          {
+            "id" : 52,
+            "name" : "Dallara SP1 #8"
+          },
+          {
+            "id" : 53,
+            "name" : "Dallara SP1 #15"
+          },
+          {
+            "id" : 54,
+            "name" : "Dallara SP1 #20"
+          },
+          {
+            "id" : 55,
+            "name" : "Dallara SP1 #27"
+          },
+          {
+            "id" : 56,
+            "name" : "Dallara SP1 #33"
+          },
+          {
+            "id" : 57,
+            "name" : "Dallara SP1 #46"
+          }
+        ],
+        "class" : "LMP1_05"
+      },
+      {
+        "id" : -1835337441,
+        "name" : "Dodge Viper ACR",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Viper White"
+          },
+          {
+            "id" : 51,
+            "name" : "Adrenaline Red"
+          },
+          {
+            "id" : 52,
+            "name" : "Billet Silver Metallic"
+          },
+          {
+            "id" : 53,
+            "name" : "Stryker Orange"
+          },
+          {
+            "id" : 54,
+            "name" : "Stryker Purple"
+          },
+          {
+            "id" : 55,
+            "name" : "GTS-R Blue Pearl"
+          },
+          {
+            "id" : 56,
+            "name" : "Venom Black"
+          },
+          {
+            "id" : 57,
+            "name" : "GTS Blue"
+          },
+          {
+            "id" : 58,
+            "name" : "Stryker Green"
+          },
+          {
+            "id" : 59,
+            "name" : "Y'Orange"
+          },
+          {
+            "id" : 60,
+            "name" : "Competition Blue"
+          },
+          {
+            "id" : 61,
+            "name" : "Gunmetal Pearl"
+          }
+        ],
+        "class" : "Supercars"
+      },
+      {
+        "id" : -1768443172,
+        "name" : "Dodge Viper GTS-R",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Dodge Viper GTS-R #3"
+          },
+          {
+            "id" : 51,
+            "name" : "Dodge Viper GTS-R #9"
+          },
+          {
+            "id" : 52,
+            "name" : "Dodge Viper GTS-R #12"
+          },
+          {
+            "id" : 53,
+            "name" : "Dodge Viper GTS-R #32"
+          },
+          {
+            "id" : 54,
+            "name" : "Dodge Viper GTS-R #36"
+          },
+          {
+            "id" : 55,
+            "name" : "Dodge Viper GTS-R #40"
+          }
+        ],
+        "class" : "GT1_05"
+      },
+      {
+        "id" : 1841695623,
+        "name" : "Lola B05/40 Turbo",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Lola B05/40 Turbo #39"
+          },
+          {
+            "id" : 51,
+            "name" : "Lola B05/40 Turbo #40"
+          },
+          {
+            "id" : 52,
+            "name" : "Lola B05/40 Turbo #44"
+          },
+          {
+            "id" : 53,
+            "name" : "Lola B05/40 Turbo #52"
+          },
+          {
+            "id" : 54,
+            "name" : "Lola B05/40 Turbo #55"
+          },
+          {
+            "id" : 55,
+            "name" : "Lola B05/40 Turbo #56"
+          },
+          {
+            "id" : 56,
+            "name" : "Lola B05/40 Turbo #57"
+          },
+          {
+            "id" : 57,
+            "name" : "Lola B05/40 Turbo #58"
+          }
+        ],
+        "class" : "LMP2_05"
+      },
+      {
+        "id" : -1575210468,
+        "name" : "Lola B05/40 V8",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Lola B05/40 V8 #89"
+          },
+          {
+            "id" : 51,
+            "name" : "Lola B05/40 V8 #90"
+          },
+          {
+            "id" : 52,
+            "name" : "Lola B05/40 V8 #91"
+          },
+          {
+            "id" : 53,
+            "name" : "Lola B05/40 V8 #92"
+          },
+          {
+            "id" : 54,
+            "name" : "Lola B05/40 V8 #93"
+          },
+          {
+            "id" : 55,
+            "name" : "Lola B05/40 V8 #94"
+          },
+          {
+            "id" : 56,
+            "name" : "Lola B05/40 V8 #95"
+          },
+          {
+            "id" : 57,
+            "name" : "Lola B05/40 V8 #96"
+          }
+        ],
+        "class" : "LMP2_05"
       },
       {
         "id" : 912279169,
@@ -1513,6 +1974,186 @@
         "class" : "F-3"
       },
       {
+        "id" : -1261768631,
+        "name" : "Formula Vintage Gen1 Model1",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Bradley Motorsports #5"
+          },
+          {
+            "id" : 51,
+            "name" : "Bradley Motorsports #6"
+          },
+          {
+            "id" : 52,
+            "name" : "Team Hornsey #13"
+          },
+          {
+            "id" : 53,
+            "name" : "Team Hornsey #14"
+          },
+          {
+            "id" : 54,
+            "name" : "North Racing #15"
+          },
+          {
+            "id" : 55,
+            "name" : "North Racing #16"
+          },
+          {
+            "id" : 56,
+            "name" : "McLean G.P. #17"
+          },
+          {
+            "id" : 57,
+            "name" : "McLean G.P. #18"
+          },
+          {
+            "id" : 58,
+            "name" : "Royal Motorsports #19"
+          },
+          {
+            "id" : 59,
+            "name" : "Royal Motorsports #20"
+          }
+        ],
+        "class" : "F-Vintage_Gen1"
+      },
+      {
+        "id" : 318400650,
+        "name" : "Formula Vintage Gen1 Model2",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Hoshino Racing Team #1"
+          },
+          {
+            "id" : 51,
+            "name" : "Dank Racing #2"
+          },
+          {
+            "id" : 52,
+            "name" : "EMS Racing #3"
+          },
+          {
+            "id" : 53,
+            "name" : "EMS Racing #4"
+          },
+          {
+            "id" : 54,
+            "name" : "Scuderia Forza #7"
+          },
+          {
+            "id" : 55,
+            "name" : "Scuderia Forza #8"
+          },
+          {
+            "id" : 56,
+            "name" : "Copper Motor Engineering #9"
+          },
+          {
+            "id" : 57,
+            "name" : "Copper Motor Engineering #10"
+          },
+          {
+            "id" : 58,
+            "name" : "Pheonix West Racing #11"
+          },
+          {
+            "id" : 59,
+            "name" : "Pheonix West Racing #12"
+          }
+        ],
+        "class" : "F-Vintage_Gen1"
+      },
+      {
+        "id" : -1988395354,
+        "name" : "Formula Vintage Gen2 Model1",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "EMS Racing #1"
+          },
+          {
+            "id" : 51,
+            "name" : "EMS Racing #2"
+          },
+          {
+            "id" : 52,
+            "name" : "Crown Motorsports #5"
+          },
+          {
+            "id" : 53,
+            "name" : "Crown Motorsports #6"
+          },
+          {
+            "id" : 54,
+            "name" : "McLean G.P. #7"
+          },
+          {
+            "id" : 55,
+            "name" : "McLean G.P. #8"
+          },
+          {
+            "id" : 56,
+            "name" : "Trent Motorsports #11"
+          },
+          {
+            "id" : 57,
+            "name" : "Trent Motorsports #12"
+          }
+        ],
+        "class" : "F-Vintage_Gen2"
+      },
+      {
+        "id" : 617290135,
+        "name" : "Formula Vintage Gen2 Model2",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Scuderia Forza #9"
+          },
+          {
+            "id" : 51,
+            "name" : "Scuderia Forza #10"
+          },
+          {
+            "id" : 52,
+            "name" : "Royal Motorsports #13"
+          },
+          {
+            "id" : 53,
+            "name" : "Royal Motorsports #14"
+          },
+          {
+            "id" : 54,
+            "name" : "North Racing #15"
+          },
+          {
+            "id" : 55,
+            "name" : "North Racing #16"
+          },
+          {
+            "id" : 56,
+            "name" : "Rich Racing #17"
+          },
+          {
+            "id" : 57,
+            "name" : "Rich Racing #18"
+          },
+          {
+            "id" : 58,
+            "name" : "Dank Racing #21"
+          },
+          {
+            "id" : 59,
+            "name" : "Dank Racing #22"
+          }
+        ],
+        "class" : "F-Vintage_Gen2"
+      },
+      {
         "id" : -489015418,
         "name" : "McLaren Honda MP4/4",
         "liveries" : [
@@ -2056,186 +2697,6 @@
         "class" : "F-Classic_Gen4"
       },
       {
-        "id" : -1261768631,
-        "name" : "Formula Vintage Gen1 Model1",
-        "liveries" : [
-          {
-            "id" : 50,
-            "name" : "Bradley Motorsports #5"
-          },
-          {
-            "id" : 51,
-            "name" : "Bradley Motorsports #6"
-          },
-          {
-            "id" : 52,
-            "name" : "Team Hornsey #13"
-          },
-          {
-            "id" : 53,
-            "name" : "Team Hornsey #14"
-          },
-          {
-            "id" : 54,
-            "name" : "North Racing #15"
-          },
-          {
-            "id" : 55,
-            "name" : "North Racing #16"
-          },
-          {
-            "id" : 56,
-            "name" : "McLean G.P. #17"
-          },
-          {
-            "id" : 57,
-            "name" : "McLean G.P. #18"
-          },
-          {
-            "id" : 58,
-            "name" : "Royal Motorsports #19"
-          },
-          {
-            "id" : 59,
-            "name" : "Royal Motorsports #20"
-          }
-        ],
-        "class" : "F-Vintage_Gen1"
-      },
-      {
-        "id" : 318400650,
-        "name" : "Formula Vintage Gen1 Model2",
-        "liveries" : [
-          {
-            "id" : 50,
-            "name" : "Hoshino Racing Team #1"
-          },
-          {
-            "id" : 51,
-            "name" : "Dank Racing #2"
-          },
-          {
-            "id" : 52,
-            "name" : "EMS Racing #3"
-          },
-          {
-            "id" : 53,
-            "name" : "EMS Racing #4"
-          },
-          {
-            "id" : 54,
-            "name" : "Scuderia Forza #7"
-          },
-          {
-            "id" : 55,
-            "name" : "Scuderia Forza #8"
-          },
-          {
-            "id" : 56,
-            "name" : "Copper Motor Engineering #9"
-          },
-          {
-            "id" : 57,
-            "name" : "Copper Motor Engineering #10"
-          },
-          {
-            "id" : 58,
-            "name" : "Pheonix West Racing #11"
-          },
-          {
-            "id" : 59,
-            "name" : "Pheonix West Racing #12"
-          }
-        ],
-        "class" : "F-Vintage_Gen1"
-      },
-      {
-        "id" : -1988395354,
-        "name" : "Formula Vintage Gen2 Model1",
-        "liveries" : [
-          {
-            "id" : 50,
-            "name" : "EMS Racing #1"
-          },
-          {
-            "id" : 51,
-            "name" : "EMS Racing #2"
-          },
-          {
-            "id" : 52,
-            "name" : "Crown Motorsports #5"
-          },
-          {
-            "id" : 53,
-            "name" : "Crown Motorsports #6"
-          },
-          {
-            "id" : 54,
-            "name" : "McLean G.P. #7"
-          },
-          {
-            "id" : 55,
-            "name" : "McLean G.P. #8"
-          },
-          {
-            "id" : 56,
-            "name" : "Trent Motorsports #11"
-          },
-          {
-            "id" : 57,
-            "name" : "Trent Motorsports #12"
-          }
-        ],
-        "class" : "F-Vintage_Gen2"
-      },
-      {
-        "id" : 617290135,
-        "name" : "Formula Vintage Gen2 Model2",
-        "liveries" : [
-          {
-            "id" : 50,
-            "name" : "Scuderia Forza #9"
-          },
-          {
-            "id" : 51,
-            "name" : "Scuderia Forza #10"
-          },
-          {
-            "id" : 52,
-            "name" : "Royal Motorsports #13"
-          },
-          {
-            "id" : 53,
-            "name" : "Royal Motorsports #14"
-          },
-          {
-            "id" : 54,
-            "name" : "North Racing #15"
-          },
-          {
-            "id" : 55,
-            "name" : "North Racing #16"
-          },
-          {
-            "id" : 56,
-            "name" : "Rich Racing #17"
-          },
-          {
-            "id" : 57,
-            "name" : "Rich Racing #18"
-          },
-          {
-            "id" : 58,
-            "name" : "Dank Racing #21"
-          },
-          {
-            "id" : 59,
-            "name" : "Dank Racing #22"
-          }
-        ],
-        "class" : "F-Vintage_Gen2"
-      },
-      {
         "id" : -546064616,
         "name" : "Formula HiTech Gen1 Model1",
         "liveries" : [
@@ -2290,37 +2751,6 @@
         "class" : "F-Hitech_Gen1"
       },
       {
-        "id" : -1740598979,
-        "name" : "Formula HiTech Gen1 Model3",
-        "liveries" : [
-          {
-            "id" : 50,
-            "name" : "United Racing #9"
-          },
-          {
-            "id" : 51,
-            "name" : "United Racing #10"
-          },
-          {
-            "id" : 52,
-            "name" : "Team Hornsey #17"
-          },
-          {
-            "id" : 53,
-            "name" : "Team Hornsey #18"
-          },
-          {
-            "id" : 54,
-            "name" : "Fontel G.P. #22"
-          },
-          {
-            "id" : 55,
-            "name" : "Fontel G.P. #23"
-          }
-        ],
-        "class" : "F-Hitech_Gen1"
-      },
-      {
         "id" : 1820184336,
         "name" : "Formula HiTech Gen1 Model4",
         "liveries" : [
@@ -2355,6 +2785,37 @@
           {
             "id" : 57,
             "name" : "Bradley Motorsports #27"
+          }
+        ],
+        "class" : "F-Hitech_Gen1"
+      },
+      {
+        "id" : -1740598979,
+        "name" : "Formula HiTech Gen1 Model3",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "United Racing #9"
+          },
+          {
+            "id" : 51,
+            "name" : "United Racing #10"
+          },
+          {
+            "id" : 52,
+            "name" : "Team Hornsey #17"
+          },
+          {
+            "id" : 53,
+            "name" : "Team Hornsey #18"
+          },
+          {
+            "id" : 54,
+            "name" : "Fontel G.P. #22"
+          },
+          {
+            "id" : 55,
+            "name" : "Fontel G.P. #23"
           }
         ],
         "class" : "F-Hitech_Gen1"
@@ -2475,6 +2936,716 @@
           }
         ],
         "class" : "F-Hitech_Gen2"
+      },
+      {
+        "id" : -1986131630,
+        "name" : "Formula Edge Model1",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "EuroTech Racing #11"
+          },
+          {
+            "id" : 51,
+            "name" : "EuroTech Racing #12"
+          },
+          {
+            "id" : 52,
+            "name" : "Scuderia Forza #27"
+          },
+          {
+            "id" : 53,
+            "name" : "Scuderia Forza #28"
+          }
+        ],
+        "class" : "FE-G1"
+      },
+      {
+        "id" : 1758947754,
+        "name" : "Formula Edge Model2",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "United Racing #1"
+          },
+          {
+            "id" : 51,
+            "name" : "United Racing #2"
+          },
+          {
+            "id" : 52,
+            "name" : "Surrey Racing #3"
+          },
+          {
+            "id" : 53,
+            "name" : "Surrey Racing #4"
+          },
+          {
+            "id" : 54,
+            "name" : "Didcot Racing #5"
+          },
+          {
+            "id" : 55,
+            "name" : "Didcot Racing #6"
+          },
+          {
+            "id" : 56,
+            "name" : "McLean G.P. #7"
+          },
+          {
+            "id" : 57,
+            "name" : "McLean G.P. #8"
+          },
+          {
+            "id" : 58,
+            "name" : "Paddy G.P. #14"
+          },
+          {
+            "id" : 59,
+            "name" : "Paddy G.P. #15"
+          },
+          {
+            "id" : 60,
+            "name" : "Lione G.P. #25"
+          },
+          {
+            "id" : 61,
+            "name" : "Lione G.P. #26"
+          }
+        ],
+        "class" : "FE-G1"
+      },
+      {
+        "id" : 1775904576,
+        "name" : "Formula Edge Model3",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Bolt-Work G.P. #9"
+          },
+          {
+            "id" : 51,
+            "name" : "Bolt-Work G.P. #10"
+          },
+          {
+            "id" : 52,
+            "name" : "Team Hornsey #16"
+          },
+          {
+            "id" : 53,
+            "name" : "Team Hornsey #17"
+          },
+          {
+            "id" : 54,
+            "name" : "Fortelli #21"
+          },
+          {
+            "id" : 55,
+            "name" : "Fortelli #22"
+          },
+          {
+            "id" : 56,
+            "name" : "Scuderia Faenza Girardi #23"
+          },
+          {
+            "id" : 57,
+            "name" : "Scuderia Faenza Girardi #24"
+          },
+          {
+            "id" : 58,
+            "name" : "Zir-Win Motorsport #29"
+          },
+          {
+            "id" : 59,
+            "name" : "Zir-Win Motorsport #30"
+          }
+        ],
+        "class" : "FE-G1"
+      },
+      {
+        "id" : 523915852,
+        "name" : "Formula V10 Gen2",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Didcot Racing #1"
+          },
+          {
+            "id" : 51,
+            "name" : "Didcot Racing #2"
+          },
+          {
+            "id" : 52,
+            "name" : "Bolt G.P. #3"
+          },
+          {
+            "id" : 53,
+            "name" : "Bolt G.P. #4"
+          },
+          {
+            "id" : 54,
+            "name" : "Puma Racing #5"
+          },
+          {
+            "id" : 55,
+            "name" : "Puma Racing #6"
+          },
+          {
+            "id" : 56,
+            "name" : "Roch G.P. #7"
+          },
+          {
+            "id" : 57,
+            "name" : "Roch G.P. #8"
+          },
+          {
+            "id" : 58,
+            "name" : "Paddy G.P. #9"
+          },
+          {
+            "id" : 59,
+            "name" : "Paddy G.P. #10"
+          },
+          {
+            "id" : 60,
+            "name" : "Strike G.P. #12"
+          },
+          {
+            "id" : 61,
+            "name" : "Scuderia Faenza Girardi #14"
+          },
+          {
+            "id" : 62,
+            "name" : "Scuderia Faenza Girardi #15"
+          },
+          {
+            "id" : 63,
+            "name" : "Zir-Win Motorsport #18"
+          },
+          {
+            "id" : 64,
+            "name" : "Zir-Win Motorsport #19"
+          },
+          {
+            "id" : 65,
+            "name" : "Scuderia Forza #20"
+          },
+          {
+            "id" : 66,
+            "name" : "Scuderia Forza #21"
+          },
+          {
+            "id" : 67,
+            "name" : "McLean G.P. #22"
+          },
+          {
+            "id" : 68,
+            "name" : "McLean G.P. #23"
+          },
+          {
+            "id" : 69,
+            "name" : "Full Force Racing #43"
+          },
+          {
+            "id" : 70,
+            "name" : "TAB Racing #24"
+          },
+          {
+            "id" : 71,
+            "name" : "TAB Racing #25"
+          },
+          {
+            "id" : 72,
+            "name" : "United Racing #26"
+          },
+          {
+            "id" : 73,
+            "name" : "United Racing #27"
+          }
+        ],
+        "class" : "F-V10_Gen2"
+      },
+      {
+        "id" : 884102371,
+        "name" : "Formula V10 Gen1",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Scuderia Faenza Girardi #0"
+          },
+          {
+            "id" : 51,
+            "name" : "Scuderia Faenza Girardi #1"
+          },
+          {
+            "id" : 52,
+            "name" : "Bolt G.P. #2"
+          },
+          {
+            "id" : 53,
+            "name" : "Bolt G.P. #3"
+          },
+          {
+            "id" : 54,
+            "name" : "Scuderia Forza #4"
+          },
+          {
+            "id" : 55,
+            "name" : "Scuderia Forza #5"
+          },
+          {
+            "id" : 56,
+            "name" : "Lione G.P. #6"
+          },
+          {
+            "id" : 57,
+            "name" : "Lione G.P. #7"
+          },
+          {
+            "id" : 58,
+            "name" : "Didcot Racing #8"
+          },
+          {
+            "id" : 59,
+            "name" : "Didcot Racing #9"
+          },
+          {
+            "id" : 60,
+            "name" : "Zir-Win Motorsport #10"
+          },
+          {
+            "id" : 61,
+            "name" : "Zir-Win Motorsport #11"
+          },
+          {
+            "id" : 62,
+            "name" : "Paddy G.P. #12"
+          },
+          {
+            "id" : 63,
+            "name" : "Paddy G.P. #14"
+          },
+          {
+            "id" : 64,
+            "name" : "Surrey Racing #15"
+          },
+          {
+            "id" : 65,
+            "name" : "Surrey Racing #16"
+          },
+          {
+            "id" : 66,
+            "name" : "Stedman G.P. #17"
+          },
+          {
+            "id" : 67,
+            "name" : "Stedman G.P. #18"
+          },
+          {
+            "id" : 68,
+            "name" : "United Racing #19"
+          },
+          {
+            "id" : 69,
+            "name" : "United Racing #20"
+          }
+        ],
+        "class" : "F-V10_Gen1"
+      },
+      {
+        "id" : -1766950841,
+        "name" : "McLaren Mercedes MP4/12",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "McLaren MP4/12 #9"
+          },
+          {
+            "id" : 51,
+            "name" : "McLaren MP4/12 #10"
+          },
+          {
+            "id" : 52,
+            "name" : "McLaren MP4/12 Testcar #9"
+          },
+          {
+            "id" : 53,
+            "name" : "McLaren MP4/12 Testcar #10"
+          }
+        ],
+        "class" : "F-V10_Gen1"
+      },
+      {
+        "id" : 1948072701,
+        "name" : "Formula V8 Gen3",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Zir-Win Motorsport #1"
+          },
+          {
+            "id" : 51,
+            "name" : "Zir-Win Motorsport #2"
+          },
+          {
+            "id" : 52,
+            "name" : "Scuderia Forza #3"
+          },
+          {
+            "id" : 53,
+            "name" : "Scuderia Forza #4"
+          },
+          {
+            "id" : 54,
+            "name" : "energyX Faenza #5"
+          },
+          {
+            "id" : 55,
+            "name" : "energyX Faenza #6"
+          },
+          {
+            "id" : 56,
+            "name" : "Team Hornsey #7"
+          },
+          {
+            "id" : 57,
+            "name" : "Team Hornsey #8"
+          },
+          {
+            "id" : 58,
+            "name" : "Didcot Racing #9"
+          },
+          {
+            "id" : 59,
+            "name" : "Didcot Racing #10"
+          },
+          {
+            "id" : 60,
+            "name" : "Team Virystone #11"
+          },
+          {
+            "id" : 61,
+            "name" : "Team Virystone #12"
+          },
+          {
+            "id" : 62,
+            "name" : "Cobra Force G.P. #14"
+          },
+          {
+            "id" : 63,
+            "name" : "Cobra Force G.P. #15"
+          },
+          {
+            "id" : 64,
+            "name" : "McLean G.P. #16"
+          },
+          {
+            "id" : 65,
+            "name" : "McLean G.P. #17"
+          },
+          {
+            "id" : 66,
+            "name" : "Starward G.P. #18"
+          },
+          {
+            "id" : 67,
+            "name" : "Starward G.P. #19"
+          },
+          {
+            "id" : 68,
+            "name" : "energyX Racing #20"
+          },
+          {
+            "id" : 69,
+            "name" : "energyX Racing #21"
+          },
+          {
+            "id" : 70,
+            "name" : "Roch G.P. #22"
+          },
+          {
+            "id" : 71,
+            "name" : "Roch G.P. #23"
+          },
+          {
+            "id" : 72,
+            "name" : "Reizoil G.P. #24"
+          },
+          {
+            "id" : 73,
+            "name" : "Reizoil G.P. #25"
+          }
+        ],
+        "class" : "F-Reiza"
+      },
+      {
+        "id" : 1971065697,
+        "name" : "Formula Ultimate Hybrid Gen1",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "energyX Racing #3"
+          },
+          {
+            "id" : 51,
+            "name" : "energyX Racing #33"
+          },
+          {
+            "id" : 52,
+            "name" : "Scuderia Forza #5"
+          },
+          {
+            "id" : 53,
+            "name" : "Scuderia Forza #7"
+          },
+          {
+            "id" : 54,
+            "name" : "Starward G.P. #6"
+          },
+          {
+            "id" : 55,
+            "name" : "Starward G.P. #44"
+          },
+          {
+            "id" : 56,
+            "name" : "DNA-USA #8"
+          },
+          {
+            "id" : 57,
+            "name" : "DNA-USA #21"
+          },
+          {
+            "id" : 58,
+            "name" : "Zir-Win Motorsport #9"
+          },
+          {
+            "id" : 59,
+            "name" : "Zir-Win Motorsport #12"
+          },
+          {
+            "id" : 60,
+            "name" : "Cobra Foce G.P. #11"
+          },
+          {
+            "id" : 61,
+            "name" : "Cobra Foce G.P. #27"
+          },
+          {
+            "id" : 62,
+            "name" : "McLean G.P. #14"
+          },
+          {
+            "id" : 63,
+            "name" : "McLean G.P. #22"
+          },
+          {
+            "id" : 64,
+            "name" : "Didcot Racing #19"
+          },
+          {
+            "id" : 65,
+            "name" : "Didcot Racing #77"
+          },
+          {
+            "id" : 66,
+            "name" : "Team Virystone #20"
+          },
+          {
+            "id" : 67,
+            "name" : "Team Virystone #30"
+          },
+          {
+            "id" : 68,
+            "name" : "energyX Faenza #26"
+          },
+          {
+            "id" : 69,
+            "name" : "energyX Faenza #55"
+          },
+          {
+            "id" : 70,
+            "name" : "oX-HORN Racing #31"
+          },
+          {
+            "id" : 71,
+            "name" : "oX-HORN Racing #94"
+          }
+        ],
+        "class" : "F-Ultimate_Gen1"
+      },
+      {
+        "id" : -1142039519,
+        "name" : "Formula Ultimate Hybrid Gen2",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "DNA-US #2"
+          },
+          {
+            "id" : 51,
+            "name" : "DNA-US #3"
+          },
+          {
+            "id" : 52,
+            "name" : "energyX Faenza #4"
+          },
+          {
+            "id" : 53,
+            "name" : "energyX Faenza #7"
+          },
+          {
+            "id" : 54,
+            "name" : "Team Virystone #5"
+          },
+          {
+            "id" : 55,
+            "name" : "Team Virystone #8"
+          },
+          {
+            "id" : 56,
+            "name" : "energyX Racing #6"
+          },
+          {
+            "id" : 57,
+            "name" : "energyX Racing #32"
+          },
+          {
+            "id" : 58,
+            "name" : "Scuderia Forza #24"
+          },
+          {
+            "id" : 59,
+            "name" : "Scuderia Forza #37"
+          },
+          {
+            "id" : 60,
+            "name" : "Racing Edge #28"
+          },
+          {
+            "id" : 61,
+            "name" : "Racing Edge #29"
+          },
+          {
+            "id" : 62,
+            "name" : "Scuderia Milano #42"
+          },
+          {
+            "id" : 63,
+            "name" : "Scuderia Milano #54"
+          },
+          {
+            "id" : 64,
+            "name" : "Didcot Racing #53"
+          },
+          {
+            "id" : 65,
+            "name" : "Didcot Racing #86"
+          },
+          {
+            "id" : 66,
+            "name" : "Starward G.P. #60"
+          },
+          {
+            "id" : 67,
+            "name" : "Starward G.P. #62"
+          },
+          {
+            "id" : 68,
+            "name" : "McLean G.P. #98"
+          },
+          {
+            "id" : 69,
+            "name" : "McLean G.P. #99"
+          }
+        ],
+        "class" : "F-Ultimate"
+      },
+      {
+        "id" : 1947909519,
+        "name" : "Formula Ultimate Hybrid Gen3",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "energyX Racing #1"
+          },
+          {
+            "id" : 51,
+            "name" : "energyX Racing #6"
+          },
+          {
+            "id" : 52,
+            "name" : "Team Virystone #2"
+          },
+          {
+            "id" : 53,
+            "name" : "Team Virystone #15"
+          },
+          {
+            "id" : 54,
+            "name" : "Bond G.P. #3"
+          },
+          {
+            "id" : 55,
+            "name" : "Bond G.P. #5"
+          },
+          {
+            "id" : 56,
+            "name" : "DNA-US #4"
+          },
+          {
+            "id" : 57,
+            "name" : "DNA-US #7"
+          },
+          {
+            "id" : 58,
+            "name" : "Starward G.P. #9"
+          },
+          {
+            "id" : 59,
+            "name" : "Starward G.P. #18"
+          },
+          {
+            "id" : 60,
+            "name" : "Zir-Win Motorsport #17"
+          },
+          {
+            "id" : 61,
+            "name" : "Zir-Win Motorsport #28"
+          },
+          {
+            "id" : 62,
+            "name" : "McLean G.P. #22"
+          },
+          {
+            "id" : 63,
+            "name" : "McLean G.P. #32"
+          },
+          {
+            "id" : 64,
+            "name" : "Didcot Racing #24"
+          },
+          {
+            "id" : 65,
+            "name" : "Didcot Racing #51"
+          },
+          {
+            "id" : 66,
+            "name" : "Scuderia Forza #45"
+          },
+          {
+            "id" : 67,
+            "name" : "Scuderia Forza #72"
+          },
+          {
+            "id" : 68,
+            "name" : "energyX Faenza #60"
+          },
+          {
+            "id" : 69,
+            "name" : "energyX Faenza #98"
+          }
+        ],
+        "class" : "F-Ultimate_Gen2"
       },
       {
         "id" : 1609162502,
@@ -3140,7 +4311,7 @@
       },
       {
         "id" : -2140090167,
-        "name" : "Formula Vee",
+        "name" : "Formula Vee Gen1",
         "liveries" : [
           {
             "id" : 50,
@@ -3187,7 +4358,7 @@
       },
       {
         "id" : -186413128,
-        "name" : "Formula Vee Fin",
+        "name" : "Formula Vee Gen1 + Fin",
         "liveries" : [
           {
             "id" : 50,
@@ -3235,6 +4406,105 @@
           }
         ],
         "class" : "F-Vee"
+      },
+      {
+        "id" : -129624066,
+        "name" : "Formula Vee Gen2",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Kleber Rocha #00"
+          },
+          {
+            "id" : 51,
+            "name" : "Rodrigo Prado #5"
+          },
+          {
+            "id" : 52,
+            "name" : "Andre Crocci #6"
+          },
+          {
+            "id" : 53,
+            "name" : "Guilherme Putnoki #7"
+          },
+          {
+            "id" : 54,
+            "name" : "Waldibio Ferraz #8"
+          },
+          {
+            "id" : 55,
+            "name" : "Leonil Zanoello #9"
+          },
+          {
+            "id" : 56,
+            "name" : "F. Monteiro #10"
+          },
+          {
+            "id" : 57,
+            "name" : "Ladir Almada #11"
+          },
+          {
+            "id" : 58,
+            "name" : "Augusto Aguila #12"
+          },
+          {
+            "id" : 59,
+            "name" : "Jairo Rozenblit #18"
+          },
+          {
+            "id" : 60,
+            "name" : "Wellington Godoy #23"
+          },
+          {
+            "id" : 61,
+            "name" : "Vinicius Andrade #30"
+          },
+          {
+            "id" : 62,
+            "name" : "Marcelo Medici #33"
+          },
+          {
+            "id" : 63,
+            "name" : "Edmar Silva #40"
+          },
+          {
+            "id" : 64,
+            "name" : "Levi Simoes #44"
+          },
+          {
+            "id" : 65,
+            "name" : "Rafael Marques #48"
+          },
+          {
+            "id" : 66,
+            "name" : "Gabriel Reis #71"
+          },
+          {
+            "id" : 67,
+            "name" : "Marco Aurelio #76"
+          },
+          {
+            "id" : 68,
+            "name" : "Vinicius Vilella #82"
+          },
+          {
+            "id" : 69,
+            "name" : "Davi Oliveira #86"
+          },
+          {
+            "id" : 70,
+            "name" : "Diogenes Rodrigues #90"
+          },
+          {
+            "id" : 71,
+            "name" : "Lucas Veloso #96"
+          },
+          {
+            "id" : 72,
+            "name" : "Claudio Reina #99"
+          }
+        ],
+        "class" : "F-Vee_Gen2"
       },
       {
         "id" : 575788923,
@@ -3334,7 +4604,7 @@
           },
           {
             "id" : 73,
-            "name" : "Formula Trainer #24 - N.Gon�alves Skin"
+            "name" : "Formula Trainer #24 - N.Gonçalves Skin"
           },
           {
             "id" : 74,
@@ -3449,7 +4719,7 @@
           },
           {
             "id" : 73,
-            "name" : "Formula Trainer A #24 - N.Gon�alves Skin"
+            "name" : "Formula Trainer A #24 - N.Gonçalves Skin"
           },
           {
             "id" : 74,
@@ -3556,591 +4826,6 @@
           }
         ],
         "class" : "F-Inter"
-      },
-      {
-        "id" : 1948072701,
-        "name" : "Formula Reiza",
-        "liveries" : [
-          {
-            "id" : 50,
-            "name" : "Zir-Win Motorsport #1"
-          },
-          {
-            "id" : 51,
-            "name" : "Zir-Win Motorsport #2"
-          },
-          {
-            "id" : 52,
-            "name" : "Scuderia Forza #3"
-          },
-          {
-            "id" : 53,
-            "name" : "Scuderia Forza #4"
-          },
-          {
-            "id" : 54,
-            "name" : "energyX Faenza #5"
-          },
-          {
-            "id" : 55,
-            "name" : "energyX Faenza #6"
-          },
-          {
-            "id" : 56,
-            "name" : "Team Hornsey #7"
-          },
-          {
-            "id" : 57,
-            "name" : "Team Hornsey #8"
-          },
-          {
-            "id" : 58,
-            "name" : "Didcot Racing #9"
-          },
-          {
-            "id" : 59,
-            "name" : "Didcot Racing #10"
-          },
-          {
-            "id" : 60,
-            "name" : "Team Virystone #11"
-          },
-          {
-            "id" : 61,
-            "name" : "Team Virystone #12"
-          },
-          {
-            "id" : 62,
-            "name" : "Cobra Force G.P. #14"
-          },
-          {
-            "id" : 63,
-            "name" : "Cobra Force G.P. #15"
-          },
-          {
-            "id" : 64,
-            "name" : "McLean G.P. #16"
-          },
-          {
-            "id" : 65,
-            "name" : "McLean G.P. #17"
-          },
-          {
-            "id" : 66,
-            "name" : "Starward G.P. #18"
-          },
-          {
-            "id" : 67,
-            "name" : "Starward G.P. #19"
-          },
-          {
-            "id" : 68,
-            "name" : "energyX Racing #20"
-          },
-          {
-            "id" : 69,
-            "name" : "energyX Racing #21"
-          }
-        ],
-        "class" : "F-Reiza"
-      },
-      {
-        "id" : -1142039519,
-        "name" : "Formula Ultimate Gen1",
-        "liveries" : [
-          {
-            "id" : 50,
-            "name" : "DNA-US #2"
-          },
-          {
-            "id" : 51,
-            "name" : "DNA-US #3"
-          },
-          {
-            "id" : 52,
-            "name" : "energyX Faenza #4"
-          },
-          {
-            "id" : 53,
-            "name" : "energyX Faenza #7"
-          },
-          {
-            "id" : 54,
-            "name" : "Team Virystone #5"
-          },
-          {
-            "id" : 55,
-            "name" : "Team Virystone #8"
-          },
-          {
-            "id" : 56,
-            "name" : "energyX Racing #6"
-          },
-          {
-            "id" : 57,
-            "name" : "energyX Racing #32"
-          },
-          {
-            "id" : 58,
-            "name" : "Scuderia Forza #24"
-          },
-          {
-            "id" : 59,
-            "name" : "Scuderia Forza #37"
-          },
-          {
-            "id" : 60,
-            "name" : "Racing Edge #28"
-          },
-          {
-            "id" : 61,
-            "name" : "Racing Edge #29"
-          },
-          {
-            "id" : 62,
-            "name" : "Scuderia Milano #42"
-          },
-          {
-            "id" : 63,
-            "name" : "Scuderia Milano #54"
-          },
-          {
-            "id" : 64,
-            "name" : "Didcot Racing #53"
-          },
-          {
-            "id" : 65,
-            "name" : "Didcot Racing #86"
-          },
-          {
-            "id" : 66,
-            "name" : "Starward G.P. #60"
-          },
-          {
-            "id" : 67,
-            "name" : "Starward G.P. #62"
-          },
-          {
-            "id" : 68,
-            "name" : "McLean G.P. #98"
-          },
-          {
-            "id" : 69,
-            "name" : "McLean G.P. #99"
-          }
-        ],
-        "class" : "F-Ultimate"
-      },
-      {
-        "id" : 1947909519,
-        "name" : "Formula Ultimate Gen2",
-        "liveries" : [
-          {
-            "id" : 50,
-            "name" : "energyX Racing #1"
-          },
-          {
-            "id" : 51,
-            "name" : "energyX Racing #6"
-          },
-          {
-            "id" : 52,
-            "name" : "Team Virystone #2"
-          },
-          {
-            "id" : 53,
-            "name" : "Team Virystone #15"
-          },
-          {
-            "id" : 54,
-            "name" : "Bond G.P. #3"
-          },
-          {
-            "id" : 55,
-            "name" : "Bond G.P. #5"
-          },
-          {
-            "id" : 56,
-            "name" : "DNA-US #4"
-          },
-          {
-            "id" : 57,
-            "name" : "DNA-US #7"
-          },
-          {
-            "id" : 58,
-            "name" : "Starward G.P. #9"
-          },
-          {
-            "id" : 59,
-            "name" : "Starward G.P. #18"
-          },
-          {
-            "id" : 60,
-            "name" : "Zir-Win Motorsport #17"
-          },
-          {
-            "id" : 61,
-            "name" : "Zir-Win Motorsport #28"
-          },
-          {
-            "id" : 62,
-            "name" : "McLean G.P. #22"
-          },
-          {
-            "id" : 63,
-            "name" : "McLean G.P. #32"
-          },
-          {
-            "id" : 64,
-            "name" : "Didcot Racing #24"
-          },
-          {
-            "id" : 65,
-            "name" : "Didcot Racing #51"
-          },
-          {
-            "id" : 66,
-            "name" : "Scuderia Forza #45"
-          },
-          {
-            "id" : 67,
-            "name" : "Scuderia Forza #72"
-          },
-          {
-            "id" : 68,
-            "name" : "energyX Faenza #60"
-          },
-          {
-            "id" : 69,
-            "name" : "energyX Faenza #98"
-          }
-        ],
-        "class" : "F-Ultimate_Gen2"
-      },
-      {
-        "id" : 523915852,
-        "name" : "Formula V10 Gen2",
-        "liveries" : [
-          {
-            "id" : 50,
-            "name" : "Didcot Racing #1"
-          },
-          {
-            "id" : 51,
-            "name" : "Didcot Racing #2"
-          },
-          {
-            "id" : 52,
-            "name" : "Bolt G.P. #3"
-          },
-          {
-            "id" : 53,
-            "name" : "Bolt G.P. #4"
-          },
-          {
-            "id" : 54,
-            "name" : "Puma Racing #5"
-          },
-          {
-            "id" : 55,
-            "name" : "Puma Racing #6"
-          },
-          {
-            "id" : 56,
-            "name" : "Roch G.P. #7"
-          },
-          {
-            "id" : 57,
-            "name" : "Roch G.P. #8"
-          },
-          {
-            "id" : 58,
-            "name" : "Paddy G.P. #9"
-          },
-          {
-            "id" : 59,
-            "name" : "Paddy G.P. #10"
-          },
-          {
-            "id" : 60,
-            "name" : "Strike G.P. #12"
-          },
-          {
-            "id" : 61,
-            "name" : "Scuderia Faenza Girardi #14"
-          },
-          {
-            "id" : 62,
-            "name" : "Scuderia Faenza Girardi #15"
-          },
-          {
-            "id" : 63,
-            "name" : "Zir-Win Motorsport #18"
-          },
-          {
-            "id" : 64,
-            "name" : "Zir-Win Motorsport #19"
-          },
-          {
-            "id" : 65,
-            "name" : "Scuderia Forza #20"
-          },
-          {
-            "id" : 66,
-            "name" : "Scuderia Forza #21"
-          },
-          {
-            "id" : 67,
-            "name" : "McLean G.P. #22"
-          },
-          {
-            "id" : 68,
-            "name" : "McLean G.P. #23"
-          },
-          {
-            "id" : 69,
-            "name" : "Full Force Racing #43"
-          },
-          {
-            "id" : 70,
-            "name" : "TAB Racing #24"
-          },
-          {
-            "id" : 71,
-            "name" : "TAB Racing #25"
-          },
-          {
-            "id" : 72,
-            "name" : "United Racing #26"
-          },
-          {
-            "id" : 73,
-            "name" : "United Racing #27"
-          }
-        ],
-        "class" : "F-V10_Gen2"
-      },
-      {
-        "id" : 884102371,
-        "name" : "Formula V10 Gen1",
-        "liveries" : [
-          {
-            "id" : 50,
-            "name" : "Scuderia Faenza Girardi #0"
-          },
-          {
-            "id" : 51,
-            "name" : "Scuderia Faenza Girardi #1"
-          },
-          {
-            "id" : 52,
-            "name" : "Bolt G.P. #2"
-          },
-          {
-            "id" : 53,
-            "name" : "Bolt G.P. #3"
-          },
-          {
-            "id" : 54,
-            "name" : "Scuderia Forza #4"
-          },
-          {
-            "id" : 55,
-            "name" : "Scuderia Forza #5"
-          },
-          {
-            "id" : 56,
-            "name" : "Lione G.P. #6"
-          },
-          {
-            "id" : 57,
-            "name" : "Lione G.P. #7"
-          },
-          {
-            "id" : 58,
-            "name" : "Didcot Racing #8"
-          },
-          {
-            "id" : 59,
-            "name" : "Didcot Racing #9"
-          },
-          {
-            "id" : 60,
-            "name" : "Zir-Win Motorsport #10"
-          },
-          {
-            "id" : 61,
-            "name" : "Zir-Win Motorsport #11"
-          },
-          {
-            "id" : 62,
-            "name" : "Paddy G.P. #12"
-          },
-          {
-            "id" : 63,
-            "name" : "Paddy G.P. #14"
-          },
-          {
-            "id" : 64,
-            "name" : "Surrey Racing #15"
-          },
-          {
-            "id" : 65,
-            "name" : "Surrey Racing #16"
-          },
-          {
-            "id" : 66,
-            "name" : "Stedman G.P. #17"
-          },
-          {
-            "id" : 67,
-            "name" : "Stedman G.P. #18"
-          },
-          {
-            "id" : 68,
-            "name" : "United Racing #19"
-          },
-          {
-            "id" : 69,
-            "name" : "United Racing #20"
-          }
-        ],
-        "class" : "F-V10_Gen1"
-      },
-      {
-        "id" : -1766950841,
-        "name" : "McLaren Mercedes MP4/12",
-        "liveries" : [
-          {
-            "id" : 50,
-            "name" : "McLaren MP4/12 #9"
-          },
-          {
-            "id" : 51,
-            "name" : "McLaren MP4/12 #10"
-          },
-          {
-            "id" : 52,
-            "name" : "McLaren MP4/12 Testcar #9"
-          },
-          {
-            "id" : 53,
-            "name" : "McLaren MP4/12 Testcar #10"
-          }
-        ],
-        "class" : "F-V10_Gen1"
-      },
-      {
-        "id" : -2053858829,
-        "name" : "Formula V12",
-        "liveries" : [
-          {
-            "id" : 50,
-            "name" : "Scuderia Forza #7"
-          },
-          {
-            "id" : 51,
-            "name" : "Scuderia Forza #8"
-          },
-          {
-            "id" : 52,
-            "name" : "McLean G.P. #1"
-          },
-          {
-            "id" : 53,
-            "name" : "McLean G.P. #2"
-          },
-          {
-            "id" : 54,
-            "name" : "Lione G.P. #3"
-          },
-          {
-            "id" : 55,
-            "name" : "Lione G.P. #4"
-          },
-          {
-            "id" : 56,
-            "name" : "EuroTech Racing #5 - Community Skin"
-          },
-          {
-            "id" : 57,
-            "name" : "EuroTech Racing #6 - Community Skin"
-          },
-          {
-            "id" : 58,
-            "name" : "Full Force Racing #10 - Community Skin"
-          },
-          {
-            "id" : 59,
-            "name" : "Full Force Racing #11 - Community Skin"
-          },
-          {
-            "id" : 60,
-            "name" : "Fortelli #12"
-          },
-          {
-            "id" : 61,
-            "name" : "Fortelli #13"
-          },
-          {
-            "id" : 62,
-            "name" : "Strike G.P. #14"
-          },
-          {
-            "id" : 63,
-            "name" : "Strike G.P. #15"
-          },
-          {
-            "id" : 64,
-            "name" : "Surrey Racing #16"
-          },
-          {
-            "id" : 65,
-            "name" : "Surrey Racing #17"
-          },
-          {
-            "id" : 66,
-            "name" : "Didcot Racing #18 - Community Skin"
-          },
-          {
-            "id" : 67,
-            "name" : "Didcot Racing #19 - Community Skin"
-          },
-          {
-            "id" : 68,
-            "name" : "United Racing #22 - Community Skin"
-          },
-          {
-            "id" : 69,
-            "name" : "United Racing #23 - Community Skin"
-          },
-          {
-            "id" : 70,
-            "name" : "Paddy G.P. #25"
-          },
-          {
-            "id" : 71,
-            "name" : "Paddy G.P. #26"
-          },
-          {
-            "id" : 72,
-            "name" : "Scuderia Faenza Girardi #29"
-          },
-          {
-            "id" : 73,
-            "name" : "Scuderia Faenza Girardi #30"
-          },
-          {
-            "id" : 74,
-            "name" : "Zir-Win Motorsport #66 - Community Skin"
-          },
-          {
-            "id" : 75,
-            "name" : "Zir-Win Motorsport #69 - Community Skin"
-          }
-        ],
-        "class" : "F-V12"
       },
       {
         "id" : -487937394,
@@ -4764,6 +5449,73 @@
         "class" : "P1Gen2"
       },
       {
+        "id" : 478471898,
+        "name" : "Ligier JS P4",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Ligier JS P4 #12"
+          },
+          {
+            "id" : 51,
+            "name" : "Ligier JS P4 #13"
+          },
+          {
+            "id" : 52,
+            "name" : "Ligier JS P4 #14"
+          },
+          {
+            "id" : 53,
+            "name" : "Ligier JS P4 #15"
+          },
+          {
+            "id" : 54,
+            "name" : "Ligier JS P4 #16"
+          },
+          {
+            "id" : 55,
+            "name" : "Ligier JS P4 #17"
+          },
+          {
+            "id" : 56,
+            "name" : "Ligier JS P4 #18"
+          },
+          {
+            "id" : 57,
+            "name" : "Ligier JS P4 #19"
+          },
+          {
+            "id" : 58,
+            "name" : "Ligier JS P4 #20"
+          },
+          {
+            "id" : 59,
+            "name" : "Ligier JS P4 #21"
+          },
+          {
+            "id" : 60,
+            "name" : "Ligier JS P4 #22"
+          },
+          {
+            "id" : 61,
+            "name" : "Ligier JS P4 #23"
+          },
+          {
+            "id" : 62,
+            "name" : "Ligier JS P4 #24"
+          },
+          {
+            "id" : 63,
+            "name" : "Ligier JS P4 #25"
+          },
+          {
+            "id" : 64,
+            "name" : "Ligier JS P4 #26"
+          }
+        ],
+        "class" : "LES_2025"
+      },
+      {
         "id" : -215037480,
         "name" : "Chevrolet Corvette C3",
         "liveries" : [
@@ -4899,6 +5651,45 @@
           }
         ],
         "class" : "TC70S"
+      },
+      {
+        "id" : -957838629,
+        "name" : "Chevrolet Corvette C5-R",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Chevrolet Corvette C5-R #2"
+          },
+          {
+            "id" : 51,
+            "name" : "Chevrolet Corvette C5-R #5"
+          },
+          {
+            "id" : 52,
+            "name" : "Chevrolet Corvette C5-R #7"
+          },
+          {
+            "id" : 53,
+            "name" : "Chevrolet Corvette C5-R #50"
+          },
+          {
+            "id" : 54,
+            "name" : "Chevrolet Corvette C5-R #63"
+          },
+          {
+            "id" : 55,
+            "name" : "Chevrolet Corvette C5-R #70"
+          },
+          {
+            "id" : 56,
+            "name" : "Chevrolet Corvette C5-R #71"
+          },
+          {
+            "id" : 57,
+            "name" : "Chevrolet Corvette C5-R #73"
+          }
+        ],
+        "class" : "GT1_05"
       },
       {
         "id" : -1729418598,
@@ -5311,6 +6102,187 @@
         "class" : "TC60S"
       },
       {
+        "id" : -1396331646,
+        "name" : "Lamborghini Miura SV",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Arancio"
+          },
+          {
+            "id" : 51,
+            "name" : "Giallo"
+          },
+          {
+            "id" : 52,
+            "name" : "Verde Miura"
+          },
+          {
+            "id" : 53,
+            "name" : "Nero"
+          },
+          {
+            "id" : 54,
+            "name" : "Oro"
+          },
+          {
+            "id" : 55,
+            "name" : "Blu"
+          },
+          {
+            "id" : 56,
+            "name" : "Bianco"
+          },
+          {
+            "id" : 57,
+            "name" : "Rosso Oro"
+          }
+        ],
+        "class" : "TC60S"
+      },
+      {
+        "id" : 1380008006,
+        "name" : "Lamborghini Murcielago R-GT",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Lamborghini Murcielago R-GT #10"
+          },
+          {
+            "id" : 51,
+            "name" : "Lamborghini Murcielago R-GT #25"
+          },
+          {
+            "id" : 52,
+            "name" : "Lamborghini Murcielago R-GT #28"
+          },
+          {
+            "id" : 53,
+            "name" : "Lamborghini Murcielago R-GT #31"
+          },
+          {
+            "id" : 54,
+            "name" : "Lamborghini Murcielago R-GT #42"
+          },
+          {
+            "id" : 55,
+            "name" : "Lamborghini Murcielago R-GT #45"
+          }
+        ],
+        "class" : "GT1_05"
+      },
+      {
+        "id" : 1625859751,
+        "name" : "Lamborghini Diablo SV-R",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Lamborghini Diablo SV-R #01"
+          },
+          {
+            "id" : 51,
+            "name" : "Lamborghini Diablo SV-R #02"
+          },
+          {
+            "id" : 52,
+            "name" : "Lamborghini Diablo SV-R #03"
+          },
+          {
+            "id" : 53,
+            "name" : "Lamborghini Diablo SV-R #04"
+          },
+          {
+            "id" : 54,
+            "name" : "Lamborghini Diablo SV-R #05"
+          },
+          {
+            "id" : 55,
+            "name" : "Lamborghini Diablo SV-R #06"
+          },
+          {
+            "id" : 56,
+            "name" : "Lamborghini Diablo SV-R #07"
+          },
+          {
+            "id" : 57,
+            "name" : "Lamborghini Diablo SV-R #08"
+          },
+          {
+            "id" : 58,
+            "name" : "Lamborghini Diablo SV-R #09"
+          },
+          {
+            "id" : 59,
+            "name" : "Lamborghini Diablo SV-R #10"
+          },
+          {
+            "id" : 60,
+            "name" : "Lamborghini Diablo SV-R #11"
+          },
+          {
+            "id" : 61,
+            "name" : "Lamborghini Diablo SV-R #12"
+          },
+          {
+            "id" : 62,
+            "name" : "Lamborghini Diablo SV-R #13"
+          },
+          {
+            "id" : 63,
+            "name" : "Lamborghini Diablo SV-R #14"
+          },
+          {
+            "id" : 64,
+            "name" : "Lamborghini Diablo SV-R #15"
+          },
+          {
+            "id" : 65,
+            "name" : "Lamborghini Diablo SV-R #16"
+          },
+          {
+            "id" : 66,
+            "name" : "Lamborghini Diablo SV-R #17"
+          },
+          {
+            "id" : 67,
+            "name" : "Lamborghini Diablo SV-R #18"
+          },
+          {
+            "id" : 68,
+            "name" : "Lamborghini Diablo SV-R #19"
+          },
+          {
+            "id" : 69,
+            "name" : "Lamborghini Diablo SV-R #20"
+          },
+          {
+            "id" : 70,
+            "name" : "Lamborghini Diablo SV-R #21"
+          },
+          {
+            "id" : 71,
+            "name" : "Lamborghini Diablo SV-R #22"
+          },
+          {
+            "id" : 72,
+            "name" : "Lamborghini Diablo SV-R #23"
+          },
+          {
+            "id" : 73,
+            "name" : "Lamborghini Diablo SV-R #24"
+          },
+          {
+            "id" : 74,
+            "name" : "Lamborghini Diablo SV-R #25"
+          },
+          {
+            "id" : 75,
+            "name" : "Lamborghini Diablo SV-R #26"
+          }
+        ],
+        "class" : "ST96"
+      },
+      {
         "id" : 1564669712,
         "name" : "Lamborghini Veneno Roadster",
         "liveries" : [
@@ -5349,6 +6321,77 @@
           {
             "id" : 58,
             "name" : "Lamborghini Veneno #09"
+          }
+        ],
+        "class" : "Hypercars"
+      },
+      {
+        "id" : 1656093112,
+        "name" : "Lamborghini Revuelto",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Arancio Xanto"
+          },
+          {
+            "id" : 51,
+            "name" : "Bianco Monocerus"
+          },
+          {
+            "id" : 52,
+            "name" : "Giallo Auge"
+          },
+          {
+            "id" : 53,
+            "name" : "Verde Viper"
+          },
+          {
+            "id" : 54,
+            "name" : "Blu Eleos"
+          },
+          {
+            "id" : 55,
+            "name" : "Blu Astraeus"
+          },
+          {
+            "id" : 57,
+            "name" : "Grigio Telesto"
+          },
+          {
+            "id" : 58,
+            "name" : "Rosso Efesto"
+          },
+          {
+            "id" : 59,
+            "name" : "Nero Nemesis"
+          },
+          {
+            "id" : 60,
+            "name" : "Viola 30°"
+          },
+          {
+            "id" : 61,
+            "name" : "Grigio Nimbus"
+          },
+          {
+            "id" : 62,
+            "name" : "Bronzo Oreadi"
+          },
+          {
+            "id" : 63,
+            "name" : "Blu Acrux Matt"
+          },
+          {
+            "id" : 64,
+            "name" : "Verde Lares"
+          },
+          {
+            "id" : 65,
+            "name" : "Verde Citrea"
+          },
+          {
+            "id" : 66,
+            "name" : "Blu Uranus"
           }
         ],
         "class" : "Hypercars"
@@ -5731,6 +6774,147 @@
         "class" : "GT4"
       },
       {
+        "id" : 1025465700,
+        "name" : "Maserati GT2 Stradale",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Blu Infinito"
+          },
+          {
+            "id" : 51,
+            "name" : "Giallo Genio"
+          },
+          {
+            "id" : 52,
+            "name" : "Nero Essenza"
+          },
+          {
+            "id" : 53,
+            "name" : "Bianco Audace"
+          },
+          {
+            "id" : 54,
+            "name" : "Digital Aurora"
+          },
+          {
+            "id" : 55,
+            "name" : "Power Nude Texturized"
+          },
+          {
+            "id" : 56,
+            "name" : "Nero Cometa"
+          },
+          {
+            "id" : 57,
+            "name" : "Digital Mint"
+          },
+          {
+            "id" : 58,
+            "name" : "Grigio Lamiera"
+          },
+          {
+            "id" : 59,
+            "name" : "Azzurro Astro"
+          },
+          {
+            "id" : 60,
+            "name" : "Military Teal"
+          },
+          {
+            "id" : 61,
+            "name" : "Blu Corse"
+          }
+        ],
+        "class" : "Supercars"
+      },
+      {
+        "id" : 1646202889,
+        "name" : "Maserati MC12 GT1",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Maserati MC12 GT1 #1"
+          },
+          {
+            "id" : 51,
+            "name" : "Maserati MC12 GT1 #33"
+          },
+          {
+            "id" : 52,
+            "name" : "Maserati MC12 GT1 #61"
+          },
+          {
+            "id" : 53,
+            "name" : "Maserati MC12 GT1 #66"
+          },
+          {
+            "id" : 54,
+            "name" : "Maserati MC12 GT1 #72"
+          },
+          {
+            "id" : 55,
+            "name" : "Maserati MC12 GT1 #86"
+          }
+        ],
+        "class" : "GT1_05"
+      },
+      {
+        "id" : -1941368649,
+        "name" : "Milano GT36",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Milano GT36 #12"
+          },
+          {
+            "id" : 51,
+            "name" : "Milano GT36 #17"
+          },
+          {
+            "id" : 52,
+            "name" : "Milano GT36 #20"
+          },
+          {
+            "id" : 53,
+            "name" : "Milano GT36 #25"
+          },
+          {
+            "id" : 54,
+            "name" : "Milano GT36 #31"
+          },
+          {
+            "id" : 55,
+            "name" : "Milano GT36 #34"
+          },
+          {
+            "id" : 56,
+            "name" : "Milano GT36 #42"
+          },
+          {
+            "id" : 57,
+            "name" : "Milano GT36 #43"
+          },
+          {
+            "id" : 58,
+            "name" : "Milano GT36 #51"
+          },
+          {
+            "id" : 59,
+            "name" : "Milano GT36 #59"
+          },
+          {
+            "id" : 60,
+            "name" : "Milano GT36 #64"
+          },
+          {
+            "id" : 61,
+            "name" : "Milano GT36 #00"
+          }
+        ],
+        "class" : "GT2_05"
+      },
+      {
         "id" : -811404968,
         "name" : "Porsche 963",
         "liveries" : [
@@ -5990,6 +7174,61 @@
           }
         ],
         "class" : "GT4"
+      },
+      {
+        "id" : 2119768860,
+        "name" : "Porsche 996 GT3 RSR",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Porsche 996 GT3 RSR #1"
+          },
+          {
+            "id" : 51,
+            "name" : "Porsche 996 GT3 RSR #2"
+          },
+          {
+            "id" : 52,
+            "name" : "Porsche 996 GT3 RSR #11"
+          },
+          {
+            "id" : 53,
+            "name" : "Porsche 996 GT3 RSR #40"
+          },
+          {
+            "id" : 54,
+            "name" : "Porsche 996 GT3 RSR #52"
+          },
+          {
+            "id" : 55,
+            "name" : "Porsche 996 GT3 RSR #61"
+          },
+          {
+            "id" : 56,
+            "name" : "Porsche 996 GT3 RSR #66"
+          },
+          {
+            "id" : 57,
+            "name" : "Porsche 996 GT3 RSR #71"
+          },
+          {
+            "id" : 58,
+            "name" : "Porsche 996 GT3 RSR #85"
+          },
+          {
+            "id" : 59,
+            "name" : "Porsche 996 GT3 RSR #115"
+          },
+          {
+            "id" : 60,
+            "name" : "Porsche 996 GT3 RSR #121"
+          },
+          {
+            "id" : 61,
+            "name" : "Porsche 996 GT3 RSR #155"
+          }
+        ],
+        "class" : "GT2_05"
       },
       {
         "id" : 850609487,
@@ -8715,6 +9954,522 @@
         "class" : "StockCar99"
       },
       {
+        "id" : 506087870,
+        "name" : "Stock USA Gen1",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Stock USA Gen1 #01"
+          },
+          {
+            "id" : 51,
+            "name" : "Stock USA Gen1 #3"
+          },
+          {
+            "id" : 52,
+            "name" : "Stock USA Gen1 #4"
+          },
+          {
+            "id" : 53,
+            "name" : "Stock USA Gen1 #5"
+          },
+          {
+            "id" : 54,
+            "name" : "Stock USA Gen1 #7"
+          },
+          {
+            "id" : 55,
+            "name" : "Stock USA Gen1 #8"
+          },
+          {
+            "id" : 56,
+            "name" : "Stock USA Gen1 #9"
+          },
+          {
+            "id" : 57,
+            "name" : "Stock USA Gen1 #10"
+          },
+          {
+            "id" : 58,
+            "name" : "Stock USA Gen1 #12"
+          },
+          {
+            "id" : 59,
+            "name" : "Stock USA Gen1 #14"
+          },
+          {
+            "id" : 60,
+            "name" : "Stock USA Gen1 #15"
+          },
+          {
+            "id" : 61,
+            "name" : "Stock USA Gen1 #16"
+          },
+          {
+            "id" : 62,
+            "name" : "Stock USA Gen1 #18"
+          },
+          {
+            "id" : 63,
+            "name" : "Stock USA Gen1 #21"
+          },
+          {
+            "id" : 64,
+            "name" : "Stock USA Gen1 #22"
+          },
+          {
+            "id" : 65,
+            "name" : "Stock USA Gen1 #25"
+          },
+          {
+            "id" : 66,
+            "name" : "Stock USA Gen1 #27"
+          },
+          {
+            "id" : 67,
+            "name" : "Stock USA Gen1 #32"
+          },
+          {
+            "id" : 68,
+            "name" : "Stock USA Gen1 #34"
+          },
+          {
+            "id" : 69,
+            "name" : "Stock USA Gen1 #38"
+          },
+          {
+            "id" : 70,
+            "name" : "Stock USA Gen1 #43"
+          },
+          {
+            "id" : 71,
+            "name" : "Stock USA Gen1 #44"
+          },
+          {
+            "id" : 72,
+            "name" : "Stock USA Gen1 #47"
+          },
+          {
+            "id" : 73,
+            "name" : "Stock USA Gen1 #48"
+          },
+          {
+            "id" : 74,
+            "name" : "Stock USA Gen1 #49"
+          },
+          {
+            "id" : 75,
+            "name" : "Stock USA Gen1 #55"
+          },
+          {
+            "id" : 76,
+            "name" : "Stock USA Gen1 #59"
+          },
+          {
+            "id" : 77,
+            "name" : "Stock USA Gen1 #61"
+          },
+          {
+            "id" : 78,
+            "name" : "Stock USA Gen1 #66"
+          },
+          {
+            "id" : 79,
+            "name" : "Stock USA Gen1 #71"
+          },
+          {
+            "id" : 80,
+            "name" : "Stock USA Gen1 #75"
+          },
+          {
+            "id" : 81,
+            "name" : "Stock USA Gen1 #79"
+          },
+          {
+            "id" : 82,
+            "name" : "Stock USA Gen1 #82"
+          },
+          {
+            "id" : 83,
+            "name" : "Stock USA Gen1 #84"
+          },
+          {
+            "id" : 84,
+            "name" : "Stock USA Gen1 #85"
+          },
+          {
+            "id" : 85,
+            "name" : "Stock USA Gen1 #86"
+          },
+          {
+            "id" : 86,
+            "name" : "Stock USA Gen1 #88"
+          },
+          {
+            "id" : 87,
+            "name" : "Stock USA Gen1 #89"
+          },
+          {
+            "id" : 88,
+            "name" : "Stock USA Gen1 #90"
+          },
+          {
+            "id" : 89,
+            "name" : "Stock USA Gen1 #99"
+          }
+        ],
+        "class" : "Stock_USA_Gen1"
+      },
+      {
+        "id" : 1041490421,
+        "name" : "Stock USA Gen2",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Stock USA Gen2 #01"
+          },
+          {
+            "id" : 51,
+            "name" : "Stock USA Gen2 #2"
+          },
+          {
+            "id" : 52,
+            "name" : "Stock USA Gen2 #3"
+          },
+          {
+            "id" : 53,
+            "name" : "Stock USA Gen2 #04"
+          },
+          {
+            "id" : 54,
+            "name" : "Stock USA Gen2 #5"
+          },
+          {
+            "id" : 55,
+            "name" : "Stock USA Gen2 #8"
+          },
+          {
+            "id" : 56,
+            "name" : "Stock USA Gen2 #9"
+          },
+          {
+            "id" : 57,
+            "name" : "Stock USA Gen2 #11"
+          },
+          {
+            "id" : 58,
+            "name" : "Stock USA Gen2 #13"
+          },
+          {
+            "id" : 59,
+            "name" : "Stock USA Gen2 #14"
+          },
+          {
+            "id" : 60,
+            "name" : "Stock USA Gen2 #15"
+          },
+          {
+            "id" : 61,
+            "name" : "Stock USA Gen2 #16"
+          },
+          {
+            "id" : 62,
+            "name" : "Stock USA Gen2 #17"
+          },
+          {
+            "id" : 63,
+            "name" : "Stock USA Gen2 #22"
+          },
+          {
+            "id" : 64,
+            "name" : "Stock USA Gen2 #25"
+          },
+          {
+            "id" : 65,
+            "name" : "Stock USA Gen2 #29"
+          },
+          {
+            "id" : 66,
+            "name" : "Stock USA Gen2 #32"
+          },
+          {
+            "id" : 67,
+            "name" : "Stock USA Gen2 #33"
+          },
+          {
+            "id" : 68,
+            "name" : "Stock USA Gen2 #34"
+          },
+          {
+            "id" : 69,
+            "name" : "Stock USA Gen2 #35"
+          },
+          {
+            "id" : 70,
+            "name" : "Stock USA Gen2 #42"
+          },
+          {
+            "id" : 71,
+            "name" : "Stock USA Gen2 #43"
+          },
+          {
+            "id" : 72,
+            "name" : "Stock USA Gen2 #45"
+          },
+          {
+            "id" : 73,
+            "name" : "Stock USA Gen2 #52"
+          },
+          {
+            "id" : 74,
+            "name" : "Stock USA Gen2 #54"
+          },
+          {
+            "id" : 75,
+            "name" : "Stock USA Gen2 #58"
+          },
+          {
+            "id" : 76,
+            "name" : "Stock USA Gen2 #59"
+          },
+          {
+            "id" : 77,
+            "name" : "Stock USA Gen2 #66"
+          },
+          {
+            "id" : 78,
+            "name" : "Stock USA Gen2 #71"
+          },
+          {
+            "id" : 79,
+            "name" : "Stock USA Gen2 #76"
+          },
+          {
+            "id" : 80,
+            "name" : "Stock USA Gen2 #77"
+          },
+          {
+            "id" : 81,
+            "name" : "Stock USA Gen2 #78"
+          },
+          {
+            "id" : 82,
+            "name" : "Stock USA Gen2 #81"
+          },
+          {
+            "id" : 83,
+            "name" : "Stock USA Gen2 #82"
+          },
+          {
+            "id" : 84,
+            "name" : "Stock USA Gen2 #85"
+          },
+          {
+            "id" : 85,
+            "name" : "Stock USA Gen2 #88"
+          },
+          {
+            "id" : 86,
+            "name" : "Stock USA Gen2 #90"
+          },
+          {
+            "id" : 87,
+            "name" : "Stock USA Gen2 #96"
+          },
+          {
+            "id" : 88,
+            "name" : "Stock USA Gen2 #97"
+          },
+          {
+            "id" : 89,
+            "name" : "Stock USA Gen2 #98"
+          }
+        ],
+        "class" : "Stock_USA_Gen2"
+      },
+      {
+        "id" : -1199329799,
+        "name" : "Stock USA Gen3",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Stock USA Gen3 #00"
+          },
+          {
+            "id" : 51,
+            "name" : "Stock USA Gen3 #02"
+          },
+          {
+            "id" : 52,
+            "name" : "Stock USA Gen3 #4"
+          },
+          {
+            "id" : 53,
+            "name" : "Stock USA Gen3 #5"
+          },
+          {
+            "id" : 54,
+            "name" : "Stock USA Gen3 #6"
+          },
+          {
+            "id" : 55,
+            "name" : "Stock USA Gen3 #8"
+          },
+          {
+            "id" : 56,
+            "name" : "Stock USA Gen3 #10"
+          },
+          {
+            "id" : 57,
+            "name" : "Stock USA Gen3 #12"
+          },
+          {
+            "id" : 58,
+            "name" : "Stock USA Gen3 #13"
+          },
+          {
+            "id" : 59,
+            "name" : "Stock USA Gen3 #15"
+          },
+          {
+            "id" : 60,
+            "name" : "Stock USA Gen3 #22"
+          },
+          {
+            "id" : 61,
+            "name" : "Stock USA Gen3 #26"
+          },
+          {
+            "id" : 62,
+            "name" : "Stock USA Gen3 #30"
+          },
+          {
+            "id" : 63,
+            "name" : "Stock USA Gen3 #32"
+          },
+          {
+            "id" : 64,
+            "name" : "Stock USA Gen3 #33"
+          },
+          {
+            "id" : 65,
+            "name" : "Stock USA Gen3 #35"
+          },
+          {
+            "id" : 66,
+            "name" : "Stock USA Gen3 #44"
+          },
+          {
+            "id" : 67,
+            "name" : "Stock USA Gen3 #46"
+          },
+          {
+            "id" : 68,
+            "name" : "Stock USA Gen3 #51"
+          },
+          {
+            "id" : 69,
+            "name" : "Stock USA Gen3 #53"
+          },
+          {
+            "id" : 70,
+            "name" : "Stock USA Gen3 #55"
+          },
+          {
+            "id" : 71,
+            "name" : "Stock USA Gen3 #58"
+          },
+          {
+            "id" : 72,
+            "name" : "Stock USA Gen3 #60"
+          },
+          {
+            "id" : 73,
+            "name" : "Stock USA Gen3 #62"
+          },
+          {
+            "id" : 74,
+            "name" : "Stock USA Gen3 #66"
+          },
+          {
+            "id" : 75,
+            "name" : "Stock USA Gen3 #69"
+          },
+          {
+            "id" : 76,
+            "name" : "Stock USA Gen3 #70"
+          },
+          {
+            "id" : 77,
+            "name" : "Stock USA Gen3 #72"
+          },
+          {
+            "id" : 78,
+            "name" : "Stock USA Gen3 #73"
+          },
+          {
+            "id" : 79,
+            "name" : "Stock USA Gen3 #74"
+          },
+          {
+            "id" : 80,
+            "name" : "Stock USA Gen3 #75"
+          },
+          {
+            "id" : 81,
+            "name" : "Stock USA Gen3 #78"
+          },
+          {
+            "id" : 82,
+            "name" : "Stock USA Gen3 #80"
+          },
+          {
+            "id" : 83,
+            "name" : "Stock USA Gen3 #82"
+          },
+          {
+            "id" : 84,
+            "name" : "Stock USA Gen3 #85"
+          },
+          {
+            "id" : 85,
+            "name" : "Stock USA Gen3 #88"
+          },
+          {
+            "id" : 86,
+            "name" : "Stock USA Gen3 #92"
+          },
+          {
+            "id" : 87,
+            "name" : "Stock USA Gen3 #95"
+          },
+          {
+            "id" : 88,
+            "name" : "Stock USA Gen3 #96"
+          },
+          {
+            "id" : 89,
+            "name" : "Stock USA Gen3 #99"
+          }
+        ],
+        "class" : "Stock_USA_Gen3"
+      },
+      {
+        "id" : 1221944856,
+        "name" : "Stock USA Gen3 LM",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Stock USA Gen3 LM #24"
+          },
+          {
+            "id" : 51,
+            "name" : "Stock USA Gen3 LM #42"
+          }
+        ],
+        "class" : "Stock_USA_Gen3_LM"
+      },
+      {
         "id" : 306371028,
         "name" : "Superkart 250cc",
         "liveries" : [
@@ -8894,39 +10649,39 @@
         "liveries" : [
           {
             "id" : 50,
-            "name" : "Ultima GTR #01"
+            "name" : "Ultima GTR #1"
           },
           {
             "id" : 51,
-            "name" : "Ultima GTR #02"
+            "name" : "Ultima GTR #2"
           },
           {
             "id" : 52,
-            "name" : "Ultima GTR #03"
+            "name" : "Ultima GTR #3"
           },
           {
             "id" : 53,
-            "name" : "Ultima GTR #04"
+            "name" : "Ultima GTR #4"
           },
           {
             "id" : 54,
-            "name" : "Ultima GTR #05"
+            "name" : "Ultima GTR #5"
           },
           {
             "id" : 55,
-            "name" : "Ultima GTR #06"
+            "name" : "Ultima GTR #6"
           },
           {
             "id" : 56,
-            "name" : "Ultima GTR #07"
+            "name" : "Ultima GTR #7"
           },
           {
             "id" : 57,
-            "name" : "Ultima GTR #08"
+            "name" : "Ultima GTR #8"
           },
           {
             "id" : 58,
-            "name" : "Ultima GTR #09"
+            "name" : "Ultima GTR #9"
           },
           {
             "id" : 59,
@@ -8934,35 +10689,11 @@
           },
           {
             "id" : 60,
-            "name" : "Ultima GTR #12"
+            "name" : "Ultima GTR #11"
           },
           {
             "id" : 61,
-            "name" : "Ultima GTR #13"
-          },
-          {
-            "id" : 62,
-            "name" : "Ultima GTR #14"
-          },
-          {
-            "id" : 63,
-            "name" : "Ultima GTR #15"
-          },
-          {
-            "id" : 64,
-            "name" : "Ultima GTR #16"
-          },
-          {
-            "id" : 65,
-            "name" : "Ultima GTR #17"
-          },
-          {
-            "id" : 66,
-            "name" : "Ultima GTR #18"
-          },
-          {
-            "id" : 67,
-            "name" : "Ultima GTR #21"
+            "name" : "Ultima GTR #12"
           }
         ],
         "class" : "Supercars"
@@ -10611,6 +12342,71 @@
         "class" : "TSICup"
       },
       {
+        "id" : -845636149,
+        "name" : "Lola B2K00 Ford-Cosworth",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Lola B2K00 Ford-Cosworth #6"
+          },
+          {
+            "id" : 51,
+            "name" : "Lola B2K00 Ford-Cosworth #11"
+          },
+          {
+            "id" : 52,
+            "name" : "Lola B2K00 Ford-Cosworth #29"
+          },
+          {
+            "id" : 53,
+            "name" : "Lola B2K00 Ford-Cosworth #30"
+          },
+          {
+            "id" : 54,
+            "name" : "Lola B2K00 Ford-Cosworth #91"
+          }
+        ],
+        "class" : "F-USA_Gen3"
+      },
+      {
+        "id" : 1305671580,
+        "name" : "Lola B2K00 Mercedes-Benz",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Lola B2K00 Mercedes-Benz #12"
+          },
+          {
+            "id" : 51,
+            "name" : "Lola B2K00 Mercedes-Benz #13"
+          },
+          {
+            "id" : 52,
+            "name" : "Lola B2K00 Mercedes-Benz #31"
+          },
+          {
+            "id" : 53,
+            "name" : "Lola B2K00 Mercedes-Benz #32"
+          }
+        ],
+        "class" : "F-USA_Gen3"
+      },
+      {
+        "id" : -1883533152,
+        "name" : "Lola B2K00 Toyota",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Lola B2K00 Toyota #1"
+          },
+          {
+            "id" : 51,
+            "name" : "Lola B2K00 Toyota #9"
+          }
+        ],
+        "class" : "F-USA_Gen3"
+      },
+      {
         "id" : -1477576480,
         "name" : "Lola T95/00 Ford-Cosworth",
         "liveries" : [
@@ -10692,66 +12488,109 @@
         "class" : "F-USA_Gen2"
       },
       {
-        "id" : -845636149,
-        "name" : "Lola B2K00 Ford-Cosworth",
+        "id" : 990042821,
+        "name" : "Reynard 2Ki Ford-Cosworth",
         "liveries" : [
           {
             "id" : 50,
-            "name" : "Lola B2K00 Ford-Cosworth #6"
+            "name" : "Reynard 2Ki Ford-Cosworth #40"
           },
           {
             "id" : 51,
-            "name" : "Lola B2K00 Ford-Cosworth #11"
+            "name" : "Reynard 2Ki Ford-Cosworth #41"
           },
           {
             "id" : 52,
-            "name" : "Lola B2K00 Ford-Cosworth #29"
+            "name" : "Reynard 2Ki Ford-Cosworth #7"
           },
           {
             "id" : 53,
-            "name" : "Lola B2K00 Ford-Cosworth #30"
+            "name" : "Reynard 2Ki Ford-Cosworth #8"
           },
           {
             "id" : 54,
-            "name" : "Lola B2K00 Ford-Cosworth #91"
+            "name" : "Reynard 2Ki Ford-Cosworth #22"
+          },
+          {
+            "id" : 55,
+            "name" : "Reynard 2Ki Ford-Cosworth #77"
           }
         ],
         "class" : "F-USA_Gen3"
       },
       {
-        "id" : 1305671580,
-        "name" : "Lola B2K00 Mercedes-Benz",
+        "id" : 1530597907,
+        "name" : "Reynard 2Ki Honda",
         "liveries" : [
           {
             "id" : 50,
-            "name" : "Lola B2K00 Mercedes-Benz #12"
+            "name" : "Reynard 2Ki Honda #2"
           },
           {
             "id" : 51,
-            "name" : "Lola B2K00 Mercedes-Benz #13"
+            "name" : "Reynard 2Ki Honda #3"
           },
           {
             "id" : 52,
-            "name" : "Lola B2K00 Mercedes-Benz #31"
+            "name" : "Reynard 2Ki Honda #4"
           },
           {
             "id" : 53,
-            "name" : "Lola B2K00 Mercedes-Benz #32"
+            "name" : "Reynard 2Ki Honda #26"
+          },
+          {
+            "id" : 54,
+            "name" : "Reynard 2Ki Honda #27"
           }
         ],
         "class" : "F-USA_Gen3"
       },
       {
-        "id" : -1883533152,
-        "name" : "Lola B2K00 Toyota",
+        "id" : 290327508,
+        "name" : "Reynard 2Ki Mercedes-Benz",
         "liveries" : [
           {
             "id" : 50,
-            "name" : "Lola B2K00 Toyota #1"
+            "name" : "Reynard 2Ki Mercedes-Benz #18"
           },
           {
             "id" : 51,
-            "name" : "Lola B2K00 Toyota #9"
+            "name" : "Reynard 2Ki Mercedes-Benz #19"
+          },
+          {
+            "id" : 52,
+            "name" : "Reynard 2Ki Mercedes-Benz #20"
+          },
+          {
+            "id" : 53,
+            "name" : "Reynard 2Ki Mercedes-Benz #21"
+          },
+          {
+            "id" : 54,
+            "name" : "Reynard 2Ki Mercedes-Benz #98"
+          },
+          {
+            "id" : 55,
+            "name" : "Reynard 2Ki Mercedes-Benz #99"
+          }
+        ],
+        "class" : "F-USA_Gen3"
+      },
+      {
+        "id" : -564338836,
+        "name" : "Reynard 2Ki Toyota",
+        "liveries" : [
+          {
+            "id" : 50,
+            "name" : "Reynard 2Ki Toyota #17"
+          },
+          {
+            "id" : 51,
+            "name" : "Reynard 2Ki Toyota #95"
+          },
+          {
+            "id" : 52,
+            "name" : "Reynard 2Ki Toyota #96"
           }
         ],
         "class" : "F-USA_Gen3"
@@ -10940,114 +12779,6 @@
           }
         ],
         "class" : "F-USA_Gen2"
-      },
-      {
-        "id" : 990042821,
-        "name" : "Reynard 2Ki Ford-Cosworth",
-        "liveries" : [
-          {
-            "id" : 50,
-            "name" : "Reynard 2Ki Ford-Cosworth #40"
-          },
-          {
-            "id" : 51,
-            "name" : "Reynard 2Ki Ford-Cosworth #41"
-          },
-          {
-            "id" : 52,
-            "name" : "Reynard 2Ki Ford-Cosworth #7"
-          },
-          {
-            "id" : 53,
-            "name" : "Reynard 2Ki Ford-Cosworth #8"
-          },
-          {
-            "id" : 54,
-            "name" : "Reynard 2Ki Ford-Cosworth #22"
-          },
-          {
-            "id" : 55,
-            "name" : "Reynard 2Ki Ford-Cosworth #77"
-          }
-        ],
-        "class" : "F-USA_Gen3"
-      },
-      {
-        "id" : 1530597907,
-        "name" : "Reynard 2Ki Honda",
-        "liveries" : [
-          {
-            "id" : 50,
-            "name" : "Reynard 2Ki Honda #2"
-          },
-          {
-            "id" : 51,
-            "name" : "Reynard 2Ki Honda #3"
-          },
-          {
-            "id" : 52,
-            "name" : "Reynard 2Ki Honda #4"
-          },
-          {
-            "id" : 53,
-            "name" : "Reynard 2Ki Honda #26"
-          },
-          {
-            "id" : 54,
-            "name" : "Reynard 2Ki Honda #27"
-          }
-        ],
-        "class" : "F-USA_Gen3"
-      },
-      {
-        "id" : 290327508,
-        "name" : "Reynard 2Ki Mercedes-Benz",
-        "liveries" : [
-          {
-            "id" : 50,
-            "name" : "Reynard 2Ki Mercedes-Benz #18"
-          },
-          {
-            "id" : 51,
-            "name" : "Reynard 2Ki Mercedes-Benz #19"
-          },
-          {
-            "id" : 52,
-            "name" : "Reynard 2Ki Mercedes-Benz #20"
-          },
-          {
-            "id" : 53,
-            "name" : "Reynard 2Ki Mercedes-Benz #21"
-          },
-          {
-            "id" : 54,
-            "name" : "Reynard 2Ki Mercedes-Benz #98"
-          },
-          {
-            "id" : 55,
-            "name" : "Reynard 2Ki Mercedes-Benz #99"
-          }
-        ],
-        "class" : "F-USA_Gen3"
-      },
-      {
-        "id" : -564338836,
-        "name" : "Reynard 2Ki Toyota",
-        "liveries" : [
-          {
-            "id" : 50,
-            "name" : "Reynard 2Ki Toyota #17"
-          },
-          {
-            "id" : 51,
-            "name" : "Reynard 2Ki Toyota #95"
-          },
-          {
-            "id" : 52,
-            "name" : "Reynard 2Ki Toyota #96"
-          }
-        ],
-        "class" : "F-USA_Gen3"
       },
       {
         "id" : 943684424,

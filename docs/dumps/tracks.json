@@ -356,6 +356,14 @@
         "default_year" : 2022
       },
       {
+        "id" : -606500494,
+        "name" : "Fontana_OVAL_Historic",
+        "gridsize" : 32,
+        "default_day" : 26,
+        "default_month" : 3,
+        "default_year" : 2000
+      },
+      {
         "id" : -1899621736,
         "name" : "Fontana_SCC",
         "gridsize" : 30,
@@ -558,7 +566,7 @@
       {
         "id" : 1003427592,
         "name" : "Imola_GP_1972",
-        "gridsize" : 26,
+        "gridsize" : 32,
         "default_day" : 1,
         "default_month" : 5,
         "default_year" : 1972
@@ -774,7 +782,7 @@
       {
         "id" : -1384297883,
         "name" : "Kyalami_Historic",
-        "gridsize" : 26,
+        "gridsize" : 32,
         "default_day" : 5,
         "default_month" : 3,
         "default_year" : 1976
@@ -786,6 +794,14 @@
         "default_day" : 12,
         "default_month" : 5,
         "default_year" : 2020
+      },
+      {
+        "id" : 999948974,
+        "name" : "Le_Mans_24h_2005",
+        "gridsize" : 32,
+        "default_day" : 19,
+        "default_month" : 6,
+        "default_year" : 2005
       },
       {
         "id" : 1060182346,
@@ -964,6 +980,14 @@
         "default_year" : 2025
       },
       {
+        "id" : -1841018106,
+        "name" : "Nordschleife_2025_tourist",
+        "gridsize" : 32,
+        "default_day" : 21,
+        "default_month" : 6,
+        "default_year" : 2025
+      },
+      {
         "id" : -1999809693,
         "name" : "Nurb_1971_Beton",
         "gridsize" : 32,
@@ -1078,7 +1102,7 @@
       {
         "id" : -498735748,
         "name" : "OultonPark_International",
-        "gridsize" : 28,
+        "gridsize" : 32,
         "default_day" : 11,
         "default_month" : 7,
         "default_year" : 2020
@@ -1086,7 +1110,7 @@
       {
         "id" : -914088887,
         "name" : "OultonPark_Classic",
-        "gridsize" : 28,
+        "gridsize" : 32,
         "default_day" : 11,
         "default_month" : 7,
         "default_year" : 2020
@@ -1094,7 +1118,7 @@
       {
         "id" : -92069206,
         "name" : "OultonPark_Fosters",
-        "gridsize" : 28,
+        "gridsize" : 32,
         "default_day" : 11,
         "default_month" : 7,
         "default_year" : 2020
@@ -1102,10 +1126,66 @@
       {
         "id" : 1820168870,
         "name" : "OultonPark_Island",
-        "gridsize" : 28,
+        "gridsize" : 32,
         "default_day" : 11,
         "default_month" : 7,
         "default_year" : 2020
+      },
+      {
+        "id" : 1588462641,
+        "name" : "Pocono_OVAL",
+        "gridsize" : 32,
+        "default_day" : 14,
+        "default_month" : 7,
+        "default_year" : 2024
+      },
+      {
+        "id" : 234013581,
+        "name" : "Pocono_RC1",
+        "gridsize" : 32,
+        "default_day" : 14,
+        "default_month" : 7,
+        "default_year" : 2024
+      },
+      {
+        "id" : 701322116,
+        "name" : "Pocono_RC2",
+        "gridsize" : 32,
+        "default_day" : 14,
+        "default_month" : 7,
+        "default_year" : 2024
+      },
+      {
+        "id" : 1354845710,
+        "name" : "Pocono_RC3",
+        "gridsize" : 32,
+        "default_day" : 14,
+        "default_month" : 7,
+        "default_year" : 2024
+      },
+      {
+        "id" : 776240466,
+        "name" : "Pocono_RC4",
+        "gridsize" : 32,
+        "default_day" : 14,
+        "default_month" : 7,
+        "default_year" : 2024
+      },
+      {
+        "id" : 218937197,
+        "name" : "Pocono_RC5",
+        "gridsize" : 32,
+        "default_day" : 14,
+        "default_month" : 7,
+        "default_year" : 2024
+      },
+      {
+        "id" : -2071676586,
+        "name" : "Pocono_RC6",
+        "gridsize" : 32,
+        "default_day" : 14,
+        "default_month" : 7,
+        "default_year" : 2024
       },
       {
         "id" : -398562049,
@@ -1138,6 +1218,22 @@
         "default_day" : 12,
         "default_month" : 10,
         "default_year" : 2024
+      },
+      {
+        "id" : 61057241,
+        "name" : "Road_Atlanta_2005",
+        "gridsize" : 32,
+        "default_day" : 17,
+        "default_month" : 4,
+        "default_year" : 2005
+      },
+      {
+        "id" : -2008079786,
+        "name" : "Road_Atlanta_2005_short",
+        "gridsize" : 32,
+        "default_day" : 12,
+        "default_month" : 10,
+        "default_year" : 2005
       },
       {
         "id" : 761562120,
@@ -1300,6 +1396,22 @@
         "default_year" : 1993
       },
       {
+        "id" : -1017131847,
+        "name" : "Spa_Francorchamps_2005",
+        "gridsize" : 32,
+        "default_day" : 11,
+        "default_month" : 9,
+        "default_year" : 2005
+      },
+      {
+        "id" : 797987967,
+        "name" : "Spa_Francorchamps_2005_EC",
+        "gridsize" : 32,
+        "default_day" : 31,
+        "default_month" : 7,
+        "default_year" : 2005
+      },
+      {
         "id" : -1262750090,
         "name" : "Spa_Francorchamps_2020",
         "gridsize" : 32,
@@ -1358,7 +1470,7 @@
       {
         "id" : -100668052,
         "name" : "Spielberg_Historic",
-        "gridsize" : 26,
+        "gridsize" : 32,
         "default_day" : 22,
         "default_month" : 4,
         "default_year" : 1977
@@ -1366,7 +1478,7 @@
       {
         "id" : -213305159,
         "name" : "Spielberg_Vintage",
-        "gridsize" : 26,
+        "gridsize" : 32,
         "default_day" : 22,
         "default_month" : 4,
         "default_year" : 1974
@@ -1462,7 +1574,7 @@
       {
         "id" : -1592912773,
         "name" : "Virginia_Grand",
-        "gridsize" : 28,
+        "gridsize" : 32,
         "default_day" : 17,
         "default_month" : 9,
         "default_year" : 2020
@@ -1470,7 +1582,7 @@
       {
         "id" : 2134032188,
         "name" : "Virginia_North",
-        "gridsize" : 28,
+        "gridsize" : 32,
         "default_day" : 17,
         "default_month" : 9,
         "default_year" : 2020
@@ -1478,7 +1590,7 @@
       {
         "id" : 1284894334,
         "name" : "Virginia_Patriot",
-        "gridsize" : 14,
+        "gridsize" : 20,
         "default_day" : 17,
         "default_month" : 9,
         "default_year" : 2020
@@ -1486,7 +1598,7 @@
       {
         "id" : -1235504884,
         "name" : "Virginia_South",
-        "gridsize" : 26,
+        "gridsize" : 28,
         "default_day" : 17,
         "default_month" : 9,
         "default_year" : 2020
